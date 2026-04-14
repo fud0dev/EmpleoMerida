@@ -1,0 +1,41 @@
+{
+  "last_updated": "14/04/2026 19:45",
+  "count": 5,
+  "ofertas": [
+    {
+      "titulo": "Técnico/a oficina de turismo en herrera del duque",
+      "id": "3650",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3650",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Un enfermero/a para residencia de mayores de villanueva de la sierra",
+      "id": "3742",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3742",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ayuda domicilio (ayto.tornavacas)",
+      "id": "3743",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3743",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Cocinero/a por la consejería de educación, ciencia y formación profesional en castuera",
+      "id": "3748",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3748",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ingeniero técnico industrial para el inst. del corcho, la madera y el carbón vegetal (icmc), perteneciente al cicytex en mérida.",
+      "id": "3749",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3749",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    }
+  ]
+}

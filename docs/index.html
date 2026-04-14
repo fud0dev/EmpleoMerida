@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mérida Empleo | Ofertas SNE y SEXPE</title>
+    <!-- Fuentes Premium -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-body: #f8f9fa;
+            --text-main: #111827;
+            --text-soft: #6b7280;
+            --gold: #b48e4b;
+            --white: #ffffff;
+            --border: #e5e7eb;
+            --success: #059669;
+        }
+        
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', -apple-system, sans-serif;
+            background-color: var(--bg-body);
+            color: var(--text-main);
+        }
+
+        /* HEADER */
+        .header {
+            text-align: center;
+            max-width: 800px;
+            margin: 60px auto;
+            padding: 0 20px;
+        }
+
+        .header h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: clamp(2.5rem, 5vw, 4rem);
+            color: var(--text-main);
+            margin: 10px 0;
+            line-height: 1.1;
+        }
+
+        .header h1 span {
+            font-style: italic;
+            color: var(--gold);
+            font-weight: 400;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            color: var(--text-soft);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .tag-portal {
+            display: inline-block;
+            font-size: 0.75rem;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            color: var(--gold);
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+
+        /* DASHBOARD METADATA */
+        .dashboard-meta {
+            background: var(--white);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 20px 30px;
+            max-width: 1100px;
+            margin: 0 auto 40px auto;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+            gap: 20px;
+            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+        }
+
+        .meta-stat {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .meta-stat span:first-child {
+            font-size: 0.8rem;
+            color: var(--text-soft);
+            text-transform: uppercase;
+            font-weight: 600;
+        }
+
+        .meta-stat span:last-child {
+            font-size: 1.5rem;
+            font-family: 'Playfair Display', serif;
+            color: var(--text-main);
+            font-weight: 600;
+        }
+
+        /* SEARCH BAR */
+        .search-container {
+            width: 100%;
+            max-width: 400px;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 12px 20px;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            font-family: 'Inter', sans-serif;
+            font-size: 0.95rem;
+            outline: none;
+            transition: all 0.2s;
+            box-sizing: border-box;
+        }
+
+        .search-input:focus {
+            border-color: var(--gold);
+            box-shadow: 0 0 0 3px rgba(180, 142, 75, 0.1);
+        }
+
+        /* GRID OFERTAS */
+        .ofertas-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 25px;
+            max-width: 1160px;
+            margin: 0 auto;
+            padding: 0 20px 80px 20px;
+        }
+
+        /* TARJETA OFERTA */
+        .tarjeta-oferta {
+            background: var(--white);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 30px;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .tarjeta-oferta:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+        }
+
+        .tarjeta-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #f3f4f6;
+            padding-bottom: 15px;
+        }
+
+        .badge-fuente {
+            font-size: 0.70rem;
+            font-weight: 700;
+            padding: 4px 10px;
+            border-radius: 4px;
+            text-transform: uppercase;
+        }
+
+        .badge-fuente.sexpe {
+            background: #f0fdf4;
+            color: #166534;
+        }
+
+        .badge-fuente.sne {
+            background: #eff6ff;
+            color: #1e40af;
+        }
+
+        .oferta-id {
+            font-size: 0.75rem;
+            color: var(--text-soft);
+            font-family: monospace;
+        }
+
+        .tarjeta-titulo {
+            font-weight: 600;
+            font-size: 1.15rem;
+            color: var(--text-main);
+            margin: 0 0 15px 0;
+            line-height: 1.4;
+            flex-grow: 1;
+        }
+
+        .tarjeta-ubicacion {
+            font-size: 0.85rem;
+            color: var(--text-soft);
+            margin-bottom: 25px;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .btn-aplicar {
+            display: block;
+            background: var(--text-main);
+            color: var(--white);
+            text-align: center;
+            text-decoration: none;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-weight: 500;
+            font-size: 0.9rem;
+            transition: background 0.2s;
+        }
+
+        .btn-aplicar:hover {
+            background: var(--gold);
+        }
+
+        /* LOADER */
+        .loader-container {
+            text-align: center;
+            padding: 60px;
+        }
+        
+        .loader {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid var(--gold);
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px auto;
+        }
+
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+        /* UTILIDADES */
+        .hidden { display: none !important; }
+
+    </style>
+</head>
+<body>
+
+    <header class="header">
+        <span class="tag-portal">Portal de Empleo Local</span>
+        <h1>Ofertas <span>Mérida</span></h1>
+        <p class="subtitle">Oportunidades laborales centralizadas desde el Sistema Nacional de Empleo y el SEXPE de Extremadura.</p>
+    </header>
+
+    <div class="dashboard-meta" id="dashboard-meta" style="display: none;">
+        <div class="meta-stat">
+            <span>Última Actualización</span>
+            <span id="txt-updated">--/--/----</span>
+        </div>
+        <div class="meta-stat">
+            <span>Ofertas Activas Hoy</span>
+            <span id="txt-count" style="color: var(--gold);">0</span>
+        </div>
+        <div class="search-container">
+            <input type="text" id="buscador" class="search-input" placeholder="🔍 Buscar por puesto o palabra clave..." onkeyup="filtrarOfertas()">
+        </div>
+    </div>
+
+    <div id="loader" class="loader-container">
+        <div class="loader"></div>
+        <p style="color: var(--text-soft);">Sincronizando con portales oficiales...</p>
+    </div>
+
+    <div class="ofertas-grid" id="grid-ofertas">
+        <!-- Las ofertas se generarán aquí vía JavaScript -->
+    </div>
+
+    <!-- FOOTER -->
+    <div style="text-align: center; padding: 40px; border-top: 1px solid var(--border); margin-top: 40px;">
+        <p style="font-size: 0.85rem; color: var(--text-soft); font-weight: 500;">
+            Hecho con dedicación en Mérida • Proyecto Integrado en Mérida XYZ
+        </p>
+    </div>
+
+    <script>
+        let todasLasOfertas = [];
+
+        async function cargarDatos() {
+            try {
+                // Hacemos fetch a los 2 JSON de manera paralela
+                const [respSexpe, respSne] = await Promise.all([
+                    fetch('data/sexpe.json').catch(() => null),
+                    fetch('data/sne.json').catch(() => null)
+                ]);
+
+                let dataSexpe = respSexpe && respSexpe.ok ? await respSexpe.json() : { ofertas: [], last_updated: "Desconocida" };
+                let dataSne = respSne && respSne.ok ? await respSne.json() : { ofertas: [], last_updated: "Desconocida" };
+
+                // Unir ofertas
+                todasLasOfertas = [...dataSexpe.ofertas, ...dataSne.ofertas];
+
+                // Ordenar por nombre o fuente (opcional)
+                todasLasOfertas.sort((a,b) => a.titulo.localeCompare(b.titulo));
+
+                // Actualizar contadores y fecha (Coger la más reciente o la de SEXPE)
+                document.getElementById('txt-count').innerText = todasLasOfertas.length;
+                document.getElementById('txt-updated').innerText = dataSexpe.last_updated !== "Desconocida" ? dataSexpe.last_updated : dataSne.last_updated;
+
+                // Ocultar loader y mostrar dashboard
+                document.getElementById('loader').classList.add('hidden');
+                document.getElementById('dashboard-meta').style.display = 'flex';
+
+                renderizarOfertas(todasLasOfertas);
+
+            } catch (error) {
+                console.error("Error al cargar las ofertas:", error);
+                document.getElementById('loader').innerHTML = `<p style="color: red;">Error conectando con la base de datos automatizada. Por favor, recarga la página.</p>`;
+            }
+        }
+
+        function renderizarOfertas(ofertas) {
+            const grid = document.getElementById('grid-ofertas');
+            grid.innerHTML = ''; // Limpiar previo
+
+            if (ofertas.length === 0) {
+                grid.innerHTML = `<div style="grid-column: 1 / -1; text-align: center; color: var(--text-soft); padding: 40px;">No se han encontrado ofertas de empleo hoy para Mérida. Inténtalo de nuevo mañana.</div>`;
+                return;
+            }
+
+            ofertas.forEach(oferta => {
+                const fuenteClase = oferta.fuente.toLowerCase() === 'sexpe' ? 'sexpe' : 'sne';
+                
+                // Formatear el título para que no salgan cosas raras si viene en mayusculas absolutas
+                const titulo = oferta.titulo;
+
+                const cardHTML = `
+                    <div class="tarjeta-oferta">
+                        <div class="tarjeta-header">
+                            <span class="badge-fuente ${fuenteClase}">${oferta.fuente}</span>
+                            <span class="oferta-id">ID: ${oferta.id}</span>
+                        </div>
+                        <h3 class="tarjeta-titulo">${titulo}</h3>
+                        
+                        <div class="tarjeta-ubicacion">
+                            🗺️ ${oferta.ubicacion}
+                        </div>
+                        
+                        <a href="${oferta.enlace}" target="_blank" class="btn-aplicar">Ver en el Portal Oficial →</a>
+                    </div>
+                `;
+                grid.insertAdjacentHTML('beforeend', cardHTML);
+            });
+        }
+
+        function filtrarOfertas() {
+            const busqueda = document.getElementById('buscador').value.toLowerCase();
+            const ofertarFiltradas = todasLasOfertas.filter(o => 
+                o.titulo.toLowerCase().includes(busqueda)
+            );
+            renderizarOfertas(ofertarFiltradas);
+        }
+
+        // Iniciar al cargar la web
+        document.addEventListener('DOMContentLoaded', cargarDatos);
+
+    </script>
+</body>
+</html>
