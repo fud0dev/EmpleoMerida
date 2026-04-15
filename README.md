@@ -1,45 +1,33 @@
-# EmpleoMérida 💼
+# 💼 Empleo Mérida · Mérida XYZ
 
-Un portal centralizado y automatizado que recopila las ofertas de empleo público y privado disponibles para la ciudad de Mérida (Badajoz), unificando distintas fuentes gubernamentales en un único *dashboard* limpio, rápido y fácil de usar.
+> **Buscador automatizado de oportunidades laborales en la ciudad.**
 
-Este proyecto forma parte del ecosistema de servicios locales [**Mérida XYZ**](https://meridaxyz.wordpress.com/).
+**Mérida Empleo** es una herramienta de utilidad ciudadana diseñada para centralizar y facilitar la búsqueda de trabajo en Mérida (Badajoz). Mediante un motor de búsqueda automatizado, el portal ofrece un panel unificado de las ofertas vigentes, eliminando la necesidad de navegar por múltiples plataformas oficiales.
 
-## ⚙️ Arquitectura y Funcionamiento
+## 🚀 Características Principales
 
-El proyecto está diseñado bajo un modelo de **datos estáticos auto-actualizables (Serverless)** hospedado íntegramente de forma gratuita en GitHub Pages y GitHub Actions:
+- **Automatización Diaria**: El sistema revisa las bases de datos de empleo cada mañana a las 06:00 AM.
+- **Fuentes Consolidadas**: Agregación de ofertas procedentes del SNE y el SEXPE.
+- **Interfaz "Boutique"**: Diseño enfocado en la legibilidad y la rapidez, desarrollado bajo la estética de los portales Mérida XYZ.
+- **Filtros Ágiles**: Categorización automática de ofertas para una navegación intuitiva.
 
-1. **Scraping**: Dos scripts desarrollados en Python (`fetch_sexpe.py` y `fetch_sne.py`) rastrean periódicamente los portales correspondientes. 
-   - `fetch_sexpe.py` utiliza `Playwright` para lidiar con el renderizado dinámico del SEXPE.
-   - `fetch_sne.py` utiliza la librería `httpx` para extraer la base de datos del Sistema Nacional de Empleo provincial y filtrar las oportunidades locales.
-   
-2. **Almacenamiento**: No se usan bases de datos tradicionales. En su lugar, los scripts exportan listas optimizadas directamente a la carpeta `/docs/data` en formato `.json` (p. ej., `sexpe.json`).
+## 🛠️ Tecnologías Utilizadas
 
-3. **Automatización (Cron Job)**: Mediante GitHub Actions (`.github/workflows/update_empleo.yml`), una máquina virtual en la nube ejecuta los scrapers todos los días a las **06:00 AM UTC**. Si detecta modificaciones u ofertas nuevas, el bot realiza un `git push` subiendo los nuevos archivos JSON.
+- **Scraper Engine**: Python + Requests + BeautifulSoup para la conexión y extracción de datos de APIs y portales de empleo públicos.
+- **Frontend Layer**: HTML5, CSS3 moderno y JS para la lógica de filtrado y visualización de tarjetas de empleo.
+- **Automation Pipeline**: GitHub Actions para mantener el panel actualizado diariamente sin intervención humana.
 
-4. **Frontend**: Los archivos situados en `/docs` sirven como un minisitio estático SPA (Single Page Application). Javascript en el cliente (`index.html`) lee los JSON estáticos y pinta las ofertas sin necesidad de un backend. 
+## 📊 Fuentes de Datos
 
-## 🚀 Despliegue Local
+La información proviene de fuentes oficiales de empleo en España y Extremadura (Servicio Extremeño Público de Empleo). Este portal no gestiona las inscripciones, sino que redirige al usuario al canal oficial de la oferta.
 
-Para ejecutar el código en tu propia máquina:
+---
 
-1. Clona el repositorio e instala las dependencias:
-   ```bash
-   pip install -r requirements.txt
-   playwright install chromium
-   ```
+## 🏛️ Sobre Mérida XYZ
 
-2. Ejecuta los módulos de manera independiente para reescribir los archivos JSON:
-   ```bash
-   python fetch_sexpe.py
-   python fetch_sne.py
-   ```
+Este proyecto es una pieza independiente del hub digital [Mérida XYZ](https://meridaxyz.wordpress.com/), dedicado a dotar a la ciudad de herramientas modernas de coste nulo para el usuario final.
 
-3. Abre el archivo `docs/index.html` con cualquier navegador local. 
+---
 
-## ⚠️ Disclaimer – Aviso Legal y Educativo
-
-**Este proyecto se ha desarrollado estricta y exclusivamente con fines divulgativos, experimentales y educativos.** 
-
-* **No es un portal gubernamental oficial.** Ni el creador de este código ni el repositorio final tienen vínculo alguno con el Servicio Extremeño Público de Empleo (SEXPE), la Junta de Extremadura o el Sistema Nacional de Empleo de España.
-* Toda la información mostrada es extraída de datos públicos ofrecidos de libre disposición de las mencionadas fuentes de origen. Los enlaces de "*Aplicar a la oferta*" redirigen irremediablemente a las sedes electrónicas e instalaciones oficiales correspondientes, donde el usuario debe someterse a las normas de privacidad del propio organismo público.
-* El autor del repositorio declina cualquier responsabilidad por discrepancias de información, caídas en la ejecución algorítmica, finalización anticipada de plazas u otro evento resultante de una desincronización de los datos cacheados en este servicio frente a la base de datos original.
+> [!NOTE]
+> **Aviso Legal y Educativo**: Este proyecto ha sido desarrollado exclusivamente con fines de aprendizaje y educativos. Si eres el propietario de alguna fuente de datos o consideras que existe cualquier incidencia técnica o de derechos, por favor contacta conmigo a través de mi perfil de GitHub o los canales de contacto del Hub.
