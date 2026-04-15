@@ -1,6 +1,6 @@
 {
-  "last_updated": "14/04/2026 17:52",
-  "count": 5,
+  "last_updated": "15/04/2026 07:15",
+  "count": 6,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -34,6 +34,13 @@
       "titulo": "Ingeniero técnico industrial para el inst. del corcho, la madera y el carbón vegetal (icmc), perteneciente al cicytex en mérida.",
       "id": "3749",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3749",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ingeniero/a técnico industrial (i.t.i.) para la consejería de cultura, turismo, jóvenes y deportes en mérida",
+      "id": "3750",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3750",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
