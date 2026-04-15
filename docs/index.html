@@ -4,8 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mérida Empleo | Ofertas SNE y SEXPE</title>
-    <link rel="icon" type="image/png"
-    href="https://merida.es/wp-content/uploads/2021/06/xcropped-favicon-32x32.png.pagespeed.ic.4twhV4Os1c.png" />
     <!-- Fuentes Premium -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
     <style>
@@ -27,44 +25,24 @@
             color: var(--text-main);
         }
 
-        /* HEADER */
-        .header {
-            text-align: center;
-            max-width: 800px;
-            margin: 60px auto;
-            padding: 0 20px;
-        }
+        /* ── Header Unificado ── */
+        .site-header { background: white; border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 500; }
+        .header-inner-nav { max-width: 1100px; margin: 0 auto; padding: 0 1.5rem; height: 60px; display: flex; align-items: center; justify-content: space-between; }
+        .brand { display: flex; flex-direction: column; text-decoration: none; color: inherit; line-height: 1.1; }
+        .brand-xyz { font-size: .65rem; font-weight: 700; text-transform: uppercase; letter-spacing: .2em; color: var(--gold); }
+        .brand-title { font-size: 1.1rem; font-weight: 800; letter-spacing: -.02em; }
+        .brand-title em { font-style: normal; font-weight: 400; color: var(--text-soft); }
 
-        .header h1 {
-            font-family: 'Playfair Display', serif;
-            font-size: clamp(2.5rem, 5vw, 4rem);
-            color: var(--text-main);
-            margin: 10px 0;
-            line-height: 1.1;
-        }
+        .nav-links { display: flex; gap: 1.25rem; }
+        .nav-links a { font-size: .8rem; font-weight: 600; text-decoration: none; color: var(--text-soft); transition: color .2s; }
+        .nav-links a:hover { color: var(--text-main); }
 
-        .header h1 span {
-            font-style: italic;
-            color: var(--gold);
-            font-weight: 400;
-        }
-
-        .subtitle {
-            font-size: 1.1rem;
-            color: var(--text-soft);
-            max-width: 600px;
-            margin: 0 auto;
-        }
-
-        .tag-portal {
-            display: inline-block;
-            font-size: 0.75rem;
-            letter-spacing: 0.3em;
-            text-transform: uppercase;
-            color: var(--gold);
-            margin-bottom: 15px;
-            font-weight: 600;
-        }
+        /* HEADER (Hero) */
+        .header-hero { text-align: left; max-width: 1100px; margin: 3rem auto 2rem; padding: 0 1.5rem; }
+        .header-hero h1 { font-family: 'Playfair Display', serif; font-size: clamp(2.5rem, 5vw, 4rem); color: var(--text-main); margin: 10px 0; line-height: 1.1; }
+        .header-hero h1 span { font-style: italic; color: var(--gold); font-weight: 400; }
+        .subtitle { font-size: 1.1rem; color: var(--text-soft); max-width: 600px; }
+        .tag-portal { display: inline-block; font-size: 0.75rem; letter-spacing: 0.3em; text-transform: uppercase; color: var(--gold); margin-bottom: 15px; font-weight: 600; }
 
         /* DASHBOARD METADATA */
         .dashboard-meta {
@@ -244,9 +222,22 @@
 </head>
 <body>
 
-    <header class="header">
-        <img src="https://meridaxyz.wordpress.com/wp-content/uploads/2026/04/meridalogo.png" alt="Mérida" style="height: 60px; margin-bottom: 25px;">
-        <br>
+    <header class="site-header">
+        <div class="header-inner-nav">
+          <a href="https://meridaxyz.wordpress.com" class="brand">
+            <span class="brand-xyz">Mérida XYZ</span>
+            <span class="brand-title">Empleo<em>Mérida</em></span>
+          </a>
+          <nav class="nav-links">
+            <a href="https://fud0dev.github.io/AgendaMerida/">Noticias</a>
+            <a href="https://fud0dev.github.io/ADMerida/">Deportes</a>
+            <a href="https://fud0dev.github.io/EmpleoMerida/">Empleo</a>
+            <a href="https://fud0dev.github.io/InflacionMerida/">Precios</a>
+          </nav>
+        </div>
+    </header>
+
+    <div class="header-hero">
         <span class="tag-portal">Portal de Empleo Local</span>
         <h1>Ofertas <span>Mérida</span></h1>
         <p class="subtitle">Oportunidades laborales centralizadas desde el Sistema Nacional de Empleo y el SEXPE de Extremadura.</p>
@@ -254,7 +245,7 @@
             <span style="display: inline-block; width: 8px; height: 8px; background-color: #059669; border-radius: 50%; box-shadow: 0 0 0 4px rgba(5, 150, 105, 0.1);"></span>
             Actualizado todos los días a las 6 de la mañana
         </div>
-    </header>
+    </div>
 
     <div class="dashboard-meta" id="dashboard-meta" style="display: none;">
         <div class="meta-stat">
