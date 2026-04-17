@@ -1,6 +1,6 @@
 {
-  "last_updated": "16/04/2026 07:15",
-  "count": 5,
+  "last_updated": "17/04/2026 07:16",
+  "count": 7,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -34,6 +34,20 @@
       "titulo": "Ingeniero/a técnico industrial (i.t.i.) para la consejería de cultura, turismo, jóvenes y deportes en mérida",
       "id": "3750",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3750",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "OFICIAL 1ª AGRÍCOLA PARA LA CONSEJERIA DE AGRICULTURA, GANADERÍA Y DESARROLLO SOSTENIBLE EN VILLAFRANCA DE LOS BARROS.",
+      "id": "3751",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3751",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Gerocultor/a (ayto. casas del castañar)",
+      "id": "3752",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3752",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
