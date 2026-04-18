@@ -1,6 +1,6 @@
 {
-  "last_updated": "17/04/2026 07:16",
-  "count": 7,
+  "last_updated": "18/04/2026 06:54",
+  "count": 6,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -17,23 +17,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Cocinero/a por la consejería de educación, ciencia y formación profesional en castuera",
-      "id": "3748",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3748",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Ingeniero técnico industrial para el inst. del corcho, la madera y el carbón vegetal (icmc), perteneciente al cicytex en mérida.",
       "id": "3749",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3749",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Ingeniero/a técnico industrial (i.t.i.) para la consejería de cultura, turismo, jóvenes y deportes en mérida",
-      "id": "3750",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3750",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -48,6 +34,13 @@
       "titulo": "Gerocultor/a (ayto. casas del castañar)",
       "id": "3752",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3752",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Auxiliar administrativo/a-mancomunidad de municipios siberia",
+      "id": "3753",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3753",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
