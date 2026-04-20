@@ -1,6 +1,6 @@
 {
-  "last_updated": "20/04/2026 09:10",
-  "count": 4,
+  "last_updated": "20/04/2026 16:15",
+  "count": 5,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -27,6 +27,13 @@
       "titulo": "Tractorista para el vivero provincial de diputación de badajoz",
       "id": "3754",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3754",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Técnico/a coordinador/a de i.t.v. para la consejería de infraestructuras, transporte y vivienda",
+      "id": "3755",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3755",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
