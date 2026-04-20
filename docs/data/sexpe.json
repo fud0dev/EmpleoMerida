@@ -1,6 +1,6 @@
 {
-  "last_updated": "19/04/2026 07:04",
-  "count": 5,
+  "last_updated": "20/04/2026 09:10",
+  "count": 4,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -17,23 +17,16 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "OFICIAL 1ª AGRÍCOLA PARA LA CONSEJERIA DE AGRICULTURA, GANADERÍA Y DESARROLLO SOSTENIBLE EN VILLAFRANCA DE LOS BARROS.",
-      "id": "3751",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3751",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Gerocultor/a (ayto. casas del castañar)",
-      "id": "3752",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3752",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Auxiliar administrativo/a-mancomunidad de municipios siberia",
       "id": "3753",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3753",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Tractorista para el vivero provincial de diputación de badajoz",
+      "id": "3754",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3754",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
