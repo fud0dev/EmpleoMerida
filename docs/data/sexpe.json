@@ -1,6 +1,6 @@
 {
-  "last_updated": "21/04/2026 08:55",
-  "count": 5,
+  "last_updated": "21/04/2026 16:14",
+  "count": 7,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -34,6 +34,20 @@
       "titulo": "Intérprete de lenguaje de signos por la delegación provincial de cáceres en jaraiz de la vera",
       "id": "3756",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3756",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ats/due para la delegación provincial de educación de badajoz",
+      "id": "3757",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3757",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Descripción: INGENIERO TÉCNICO INDUSTRIAL PARA LA CONSEJERÍA DE GESTIÓN FORESTAL Y MUNDO RURAL EN MÉRIDA.",
+      "id": "3758",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3758",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
