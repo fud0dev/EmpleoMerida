@@ -1,5 +1,5 @@
 {
-  "last_updated": "20/04/2026 16:15",
+  "last_updated": "21/04/2026 08:55",
   "count": 5,
   "ofertas": [
     {
@@ -17,13 +17,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Auxiliar administrativo/a-mancomunidad de municipios siberia",
-      "id": "3753",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3753",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Tractorista para el vivero provincial de diputación de badajoz",
       "id": "3754",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3754",
@@ -34,6 +27,13 @@
       "titulo": "Técnico/a coordinador/a de i.t.v. para la consejería de infraestructuras, transporte y vivienda",
       "id": "3755",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3755",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Intérprete de lenguaje de signos por la delegación provincial de cáceres en jaraiz de la vera",
+      "id": "3756",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3756",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
