@@ -1,6 +1,6 @@
 {
-  "last_updated": "22/04/2026 16:12",
-  "count": 6,
+  "last_updated": "23/04/2026 08:56",
+  "count": 7,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -41,6 +41,13 @@
       "titulo": "Ats/due para la delegación provincial de educación de badajoz",
       "id": "3757",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3757",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Especialista en olivicultura y caracterización del estado hídrico del olivar para la finca la orden, perteneciente al cicytex",
+      "id": "3759",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3759",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
