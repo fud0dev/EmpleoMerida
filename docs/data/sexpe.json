@@ -1,6 +1,6 @@
 {
-  "last_updated": "27/04/2026 09:23",
-  "count": 8,
+  "last_updated": "27/04/2026 16:44",
+  "count": 9,
   "ofertas": [
     {
       "titulo": "Un enfermero/a para residencia de mayores de villanueva de la sierra",
@@ -55,6 +55,13 @@
       "titulo": "Operario/a de servicios múltiples/torrejon el rubio",
       "id": "3769",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3769",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ate-cuidador por la delegación provincial de educación de cáceres en plasencia y montehermoso",
+      "id": "3770",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3770",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
