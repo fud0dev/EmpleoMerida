@@ -1,18 +1,11 @@
 {
-  "last_updated": "26/04/2026 15:49",
-  "count": 7,
+  "last_updated": "27/04/2026 09:23",
+  "count": 8,
   "ofertas": [
     {
       "titulo": "Un enfermero/a para residencia de mayores de villanueva de la sierra",
       "id": "3742",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3742",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Técnico/a coordinador/a de i.t.v. para la consejería de infraestructuras, transporte y vivienda",
-      "id": "3755",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3755",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -31,13 +24,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Monitor-a act. formativas complementarias en c. escolares públi. especialidad tic en ahigal, cañamero, montehermoso y moraleja.",
-      "id": "3764",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3764",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Fisioterapeuta (ayto casas de millán)",
       "id": "3765",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3765",
@@ -48,6 +34,27 @@
       "titulo": "Terapeuta ocupacional - ayto. casas de millán",
       "id": "3766",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3766",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Tecnico para prestacion y servicios de orientación y prospeccion laboral para el desarrollo rural",
+      "id": "3767",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3767",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ayudante técnico especialidad educación física en el centro de tecnificación deportiva de cáceres.",
+      "id": "3768",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3768",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Operario/a de servicios múltiples/torrejon el rubio",
+      "id": "3769",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3769",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
