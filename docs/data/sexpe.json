@@ -1,6 +1,6 @@
 {
-  "last_updated": "29/04/2026 16:45",
-  "count": 8,
+  "last_updated": "30/04/2026 09:19",
+  "count": 7,
   "ofertas": [
     {
       "titulo": "Un enfermero/a para residencia de mayores de villanueva de la sierra",
@@ -31,20 +31,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Operario/a de servicios múltiples/torrejon el rubio",
-      "id": "3769",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3769",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Ate-cuidador por la delegación provincial de educación de cáceres en plasencia y montehermoso",
-      "id": "3770",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3770",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Ate-cuidador para el c.r. ntra. sra. de las cruces en don benito (sepad)",
       "id": "3771",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3771",
@@ -55,6 +41,13 @@
       "titulo": "Técnico de educación infantil (ayt. cabrero)",
       "id": "3772",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3772",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Fisioterapeuta arroyo de la luz",
+      "id": "3773",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3773",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
