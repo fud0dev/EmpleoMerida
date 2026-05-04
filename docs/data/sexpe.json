@@ -1,6 +1,6 @@
 {
-  "last_updated": "03/05/2026 15:53",
-  "count": 2,
+  "last_updated": "04/05/2026 09:25",
+  "count": 3,
   "ofertas": [
     {
       "titulo": "Un enfermero/a para residencia de mayores de villanueva de la sierra",
@@ -13,6 +13,13 @@
       "titulo": "Fisioterapeuta arroyo de la luz",
       "id": "3773",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3773",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "OFICIAL 2ª CONDUCTOR ( 2 PUESTOS ) PARA EL SEPAD EN PLASENCIA.",
+      "id": "3774",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3774",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
