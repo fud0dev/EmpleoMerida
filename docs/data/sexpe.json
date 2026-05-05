@@ -1,7 +1,14 @@
 {
-  "last_updated": "05/05/2026 09:10",
-  "count": 5,
+  "last_updated": "05/05/2026 16:28",
+  "count": 6,
   "ofertas": [
+    {
+      "titulo": "Técnico/a oficina de turismo en herrera del duque",
+      "id": "3650",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3650",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
     {
       "titulo": "Un enfermero/a para residencia de mayores de villanueva de la sierra",
       "id": "3742",
