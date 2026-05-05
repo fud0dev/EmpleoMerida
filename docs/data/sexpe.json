@@ -1,6 +1,6 @@
 {
-  "last_updated": "04/05/2026 16:51",
-  "count": 4,
+  "last_updated": "05/05/2026 09:10",
+  "count": 5,
   "ofertas": [
     {
       "titulo": "Un enfermero/a para residencia de mayores de villanueva de la sierra",
@@ -27,6 +27,13 @@
       "titulo": "Operario de servicios múltiples con carné de mantenedor de piscinas (hinojal)",
       "id": "3775",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3775",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "2 encuestadores entrevistadores en ine de cáceres",
+      "id": "3776",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3776",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
