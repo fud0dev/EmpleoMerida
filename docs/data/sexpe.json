@@ -1,6 +1,6 @@
 {
-  "last_updated": "06/05/2026 09:28",
-  "count": 6,
+  "last_updated": "06/05/2026 16:46",
+  "count": 8,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -41,6 +41,20 @@
       "titulo": "2 encuestadores entrevistadores en ine de cáceres",
       "id": "3776",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3776",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Técnico/a en estadística para el instituto de estadística de extremadura en mérida.",
+      "id": "3777",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3777",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Técnico de educación infantil (ayto.tornavacas)",
+      "id": "3778",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3778",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
