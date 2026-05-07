@@ -1,6 +1,6 @@
 {
-  "last_updated": "07/05/2026 09:38",
-  "count": 8,
+  "last_updated": "07/05/2026 16:56",
+  "count": 9,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -55,6 +55,13 @@
       "titulo": "Monitor ocio y tiempo libre monroy",
       "id": "3780",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3780",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Arquitecto/a técnico/a para la consejería de hacienda y admnistración pública.",
+      "id": "3781",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3781",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
