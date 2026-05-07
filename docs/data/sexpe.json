@@ -1,5 +1,5 @@
 {
-  "last_updated": "06/05/2026 16:46",
+  "last_updated": "07/05/2026 09:38",
   "count": 8,
   "ofertas": [
     {
@@ -10,23 +10,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Un enfermero/a para residencia de mayores de villanueva de la sierra",
-      "id": "3742",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3742",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Fisioterapeuta arroyo de la luz",
       "id": "3773",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3773",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "OFICIAL 2ª CONDUCTOR ( 2 PUESTOS ) PARA EL SEPAD EN PLASENCIA.",
-      "id": "3774",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3774",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -55,6 +41,20 @@
       "titulo": "Técnico de educación infantil (ayto.tornavacas)",
       "id": "3778",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3778",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Director ocio y tiempo libre monroy",
+      "id": "3779",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3779",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor ocio y tiempo libre monroy",
+      "id": "3780",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3780",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
