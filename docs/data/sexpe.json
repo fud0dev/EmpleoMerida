@@ -1,6 +1,6 @@
 {
-  "last_updated": "08/05/2026 08:23",
-  "count": 9,
+  "last_updated": "08/05/2026 16:19",
+  "count": 12,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -62,6 +62,27 @@
       "titulo": "Arquitecto/a técnico/a para la consejería de hacienda y admnistración pública.",
       "id": "3781",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3781",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "4 OFICIALES DE 1ª ESPECIALIDAD MECÁNICA PARA LA VICEP. Y CONSJ. DE PRESIDENCIA, COORD. ACCIÓN DE GOBIERNO, INTERIOR Y EMERGENCIAS",
+      "id": "3782",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3782",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Director/a de ocio y tiempo libre concilia extremadura (ayuntamiento de navezuelas)",
+      "id": "3783",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3783",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Agente de empleo de empleo y desarrollo local",
+      "id": "3784",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3784",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
