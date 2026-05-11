@@ -1,25 +1,11 @@
 {
-  "last_updated": "10/05/2026 15:58",
-  "count": 8,
+  "last_updated": "11/05/2026 10:40",
+  "count": 11,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
       "id": "3650",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3650",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Fisioterapeuta arroyo de la luz",
-      "id": "3773",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3773",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Técnico/a en estadística para el instituto de estadística de extremadura en mérida.",
-      "id": "3777",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3777",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -55,6 +41,41 @@
       "titulo": "Agente de empleo de empleo y desarrollo local",
       "id": "3784",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3784",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Peón de servicios múltiples con discapacidad/santa ana",
+      "id": "3786",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3786",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Mecanico/a inspector i.t.v. para la consejeria de infraestructuras, transporte y vivienda en plasencia",
+      "id": "3787",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3787",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ate-cuidador por el sepad para las localidades de don benito y plasencia",
+      "id": "3788",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3788",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "1 dinamizador/a deportivo/a mancomunidad guadiana",
+      "id": "3789",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3789",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "2 intérpretes de lenguaje de signos por la delegación provincial de educación de badajoz, en badajoz y alconchel",
+      "id": "3790",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3790",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
