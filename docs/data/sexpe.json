@@ -1,6 +1,6 @@
 {
-  "last_updated": "11/05/2026 10:40",
-  "count": 11,
+  "last_updated": "11/05/2026 17:28",
+  "count": 12,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -76,6 +76,13 @@
       "titulo": "2 intérpretes de lenguaje de signos por la delegación provincial de educación de badajoz, en badajoz y alconchel",
       "id": "3790",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3790",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Terapeuta ocupacional ayuntamiento de alia",
+      "id": "3791",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3791",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
