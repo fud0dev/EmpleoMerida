@@ -1,25 +1,11 @@
 {
-  "last_updated": "11/05/2026 17:28",
-  "count": 12,
+  "last_updated": "12/05/2026 09:44",
+  "count": 11,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
       "id": "3650",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3650",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Director ocio y tiempo libre monroy",
-      "id": "3779",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3779",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Monitor ocio y tiempo libre monroy",
-      "id": "3780",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3780",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -83,6 +69,13 @@
       "titulo": "Terapeuta ocupacional ayuntamiento de alia",
       "id": "3791",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3791",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ingeniero/a técnico agrícola para la consejería de hacienda, administración pública y diálogo social en mérida.",
+      "id": "3792",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3792",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
