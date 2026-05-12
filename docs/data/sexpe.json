@@ -1,6 +1,6 @@
 {
-  "last_updated": "12/05/2026 09:44",
-  "count": 11,
+  "last_updated": "12/05/2026 17:16",
+  "count": 13,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -76,6 +76,20 @@
       "titulo": "Ingeniero/a técnico agrícola para la consejería de hacienda, administración pública y diálogo social en mérida.",
       "id": "3792",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3792",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ingeniero tecnico forestal para el instituto del corcho, la madera y el carbón vegetal (icmc) perteneciente al cicytex en mérida.",
+      "id": "3793",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3793",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "1 enfermero/a patronato residencia de mayores en coria",
+      "id": "3794",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3794",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
