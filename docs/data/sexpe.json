@@ -1,6 +1,6 @@
 {
-  "last_updated": "12/05/2026 17:16",
-  "count": 13,
+  "last_updated": "13/05/2026 09:48",
+  "count": 14,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -10,23 +10,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "4 OFICIALES DE 1ª ESPECIALIDAD MECÁNICA PARA LA VICEP. Y CONSJ. DE PRESIDENCIA, COORD. ACCIÓN DE GOBIERNO, INTERIOR Y EMERGENCIAS",
-      "id": "3782",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3782",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Director/a de ocio y tiempo libre concilia extremadura (ayuntamiento de navezuelas)",
       "id": "3783",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3783",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Agente de empleo de empleo y desarrollo local",
-      "id": "3784",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3784",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -90,6 +76,27 @@
       "titulo": "1 enfermero/a patronato residencia de mayores en coria",
       "id": "3794",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3794",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "1 ordenanza para patronato residencia de mayores en coria",
+      "id": "3795",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3795",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "5 auxiliares enfermería a jornada completa patronato residencia de mayores en coria",
+      "id": "3796",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3796",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "2 auxiliares enfermería a jornada parcial patronato residencia de mayores en coria",
+      "id": "3797",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3797",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
