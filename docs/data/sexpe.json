@@ -1,6 +1,6 @@
 {
-  "last_updated": "13/05/2026 09:48",
-  "count": 14,
+  "last_updated": "13/05/2026 17:21",
+  "count": 15,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -97,6 +97,13 @@
       "titulo": "2 auxiliares enfermería a jornada parcial patronato residencia de mayores en coria",
       "id": "3797",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3797",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Bolsa de empleo conductores-operarios manc. integral. municipios centro",
+      "id": "3798",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3798",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
