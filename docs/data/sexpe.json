@@ -1,6 +1,6 @@
 {
-  "last_updated": "14/05/2026 09:37",
-  "count": 14,
+  "last_updated": "14/05/2026 17:03",
+  "count": 15,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -97,6 +97,13 @@
       "titulo": "Titulado superior biologo/a para el centro de investigaciones cientificas y tecnológicas de extremadura (cicytex)",
       "id": "3799",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3799",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor/a de ocio y tiempo libre (hinojal)",
+      "id": "3802",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3802",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
