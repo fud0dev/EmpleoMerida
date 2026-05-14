@@ -1,6 +1,6 @@
 {
-  "last_updated": "13/05/2026 17:21",
-  "count": 15,
+  "last_updated": "14/05/2026 09:37",
+  "count": 14,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -17,23 +17,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Peón de servicios múltiples con discapacidad/santa ana",
-      "id": "3786",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3786",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Mecanico/a inspector i.t.v. para la consejeria de infraestructuras, transporte y vivienda en plasencia",
       "id": "3787",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3787",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Ate-cuidador por el sepad para las localidades de don benito y plasencia",
-      "id": "3788",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3788",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -104,6 +90,13 @@
       "titulo": "Bolsa de empleo conductores-operarios manc. integral. municipios centro",
       "id": "3798",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3798",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Titulado superior biologo/a para el centro de investigaciones cientificas y tecnológicas de extremadura (cicytex)",
+      "id": "3799",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3799",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
