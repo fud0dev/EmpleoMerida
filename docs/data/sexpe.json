@@ -1,6 +1,6 @@
 {
-  "last_updated": "15/05/2026 09:50",
-  "count": 16,
+  "last_updated": "15/05/2026 16:54",
+  "count": 17,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -111,6 +111,13 @@
       "titulo": "Director de ocio y tiempo libre (concilia-extremadura) en berrocalejo(cáceres)",
       "id": "3805",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3805",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ayuntamiento de berrocalejo, tecnico/a dinamizador/a sociocultural",
+      "id": "3806",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3806",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
