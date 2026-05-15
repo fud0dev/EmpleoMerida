@@ -1,18 +1,11 @@
 {
-  "last_updated": "14/05/2026 17:03",
-  "count": 15,
+  "last_updated": "15/05/2026 09:50",
+  "count": 16,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
       "id": "3650",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3650",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Director/a de ocio y tiempo libre concilia extremadura (ayuntamiento de navezuelas)",
-      "id": "3783",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3783",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -24,30 +17,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "1 dinamizador/a deportivo/a mancomunidad guadiana",
-      "id": "3789",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3789",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "2 intérpretes de lenguaje de signos por la delegación provincial de educación de badajoz, en badajoz y alconchel",
-      "id": "3790",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3790",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Terapeuta ocupacional ayuntamiento de alia",
       "id": "3791",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3791",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Ingeniero/a técnico agrícola para la consejería de hacienda, administración pública y diálogo social en mérida.",
-      "id": "3792",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3792",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -101,9 +73,44 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
+      "titulo": "OFICIAL 1ª CONDUCTOR PARA EL SEPAD EN LA LOCALIDAD DE MÉRIDA.",
+      "id": "3800",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3800",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Encargado para c.r. la granadilla por el sepad en badajoz",
+      "id": "3801",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3801",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
       "titulo": "Monitor/a de ocio y tiempo libre (hinojal)",
       "id": "3802",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3802",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Director de ocio y tiempo libre (concilia-extremadura) en millanes (cáceres)",
+      "id": "3803",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3803",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor de ocio y tiempo libre (concilia-extremadura) en berrocalejo(cáceres)",
+      "id": "3804",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3804",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Director de ocio y tiempo libre (concilia-extremadura) en berrocalejo(cáceres)",
+      "id": "3805",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3805",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
