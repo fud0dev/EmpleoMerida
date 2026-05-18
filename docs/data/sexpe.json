@@ -1,18 +1,11 @@
 {
-  "last_updated": "17/05/2026 16:02",
-  "count": 16,
+  "last_updated": "18/05/2026 11:09",
+  "count": 20,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
       "id": "3650",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3650",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Mecanico/a inspector i.t.v. para la consejeria de infraestructuras, transporte y vivienda en plasencia",
-      "id": "3787",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3787",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -66,27 +59,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "OFICIAL 1ª CONDUCTOR PARA EL SEPAD EN LA LOCALIDAD DE MÉRIDA.",
-      "id": "3800",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3800",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Encargado para c.r. la granadilla por el sepad en badajoz",
-      "id": "3801",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3801",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Monitor/a de ocio y tiempo libre (hinojal)",
-      "id": "3802",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3802",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Director de ocio y tiempo libre (concilia-extremadura) en millanes (cáceres)",
       "id": "3803",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3803",
@@ -111,6 +83,62 @@
       "titulo": "Ayuntamiento de berrocalejo, tecnico/a dinamizador/a sociocultural",
       "id": "3806",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3806",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Director de ocio y tiempo libre (concilia-extremadura) en el gordo(cáceres)",
+      "id": "3807",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3807",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor de ocio y tiempo libre (concilia-extremadura) en el gordo(cáceres)",
+      "id": "3808",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3808",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor/a de ocio y tiempo libre (santiago del campo)",
+      "id": "3809",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3809",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "OFICIAL 2ª CONDUCTOR PARA EL SEPAD EN LA LOCALIDAD DE MIAJADAS",
+      "id": "3810",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3810",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Director/a de ocio y tiempo libre (santiago del campo)",
+      "id": "3811",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3811",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Cocinero/a para el sepad en don benito",
+      "id": "3812",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3812",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Dinamizador sociocultural (santiago del campo)",
+      "id": "3813",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3813",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ate-cuidador por la delegación provincial de educación de cáceres en carcaboso",
+      "id": "3814",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3814",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
