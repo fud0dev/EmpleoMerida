@@ -1,6 +1,6 @@
 {
-  "last_updated": "19/05/2026 10:39",
-  "count": 24,
+  "last_updated": "19/05/2026 17:40",
+  "count": 26,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -167,6 +167,20 @@
       "titulo": "Ing. téc. agrícola para finca la orden perteneciente al c. de investigaciones cientificas y tecnológicas de extremadura (cicytex)",
       "id": "3819",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3819",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Auxiliar de ayuda a domicilio. ayto torrejon el rubio",
+      "id": "3820",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3820",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Asistente domiciliario (ayto. tornavacas)",
+      "id": "3821",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3821",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
