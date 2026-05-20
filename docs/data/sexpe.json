@@ -1,6 +1,6 @@
 {
-  "last_updated": "19/05/2026 17:40",
-  "count": 26,
+  "last_updated": "20/05/2026 10:27",
+  "count": 29,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -181,6 +181,27 @@
       "titulo": "Asistente domiciliario (ayto. tornavacas)",
       "id": "3821",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3821",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Mecanico para mancomunidad la srena",
+      "id": "3822",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3822",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "12 educador/a para los c. de atención al menor y c. cumplimiento de med. judiciales adscritos a la d.g. serv. soc. inf. y familia",
+      "id": "3823",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3823",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Interprete de lengua de signos para fregenal de la sierra",
+      "id": "3824",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3824",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
