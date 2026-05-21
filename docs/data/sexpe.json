@@ -1,6 +1,6 @@
 {
-  "last_updated": "21/05/2026 10:42",
-  "count": 25,
+  "last_updated": "21/05/2026 17:32",
+  "count": 27,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -174,6 +174,20 @@
       "titulo": "Monitor/a de ocio y tiempo libre concilia arroyo de la luz",
       "id": "3829",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3829",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Director/a de ocio y tiempo libre concilia arroyo de la luz",
+      "id": "3830",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3830",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Gerocultor/a para Residencia de Mayores en Villanueva de la Sierra",
+      "id": "3831",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3831",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
