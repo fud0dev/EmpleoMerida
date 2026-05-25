@@ -1,6 +1,6 @@
 {
-  "last_updated": "24/05/2026 16:04",
-  "count": 17,
+  "last_updated": "25/05/2026 11:14",
+  "count": 19,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -34,13 +34,6 @@
       "titulo": "2 auxiliares enfermería a jornada parcial patronato residencia de mayores en coria",
       "id": "3797",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3797",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Ing. téc. agrícola para finca la orden perteneciente al c. de investigaciones cientificas y tecnológicas de extremadura (cicytex)",
-      "id": "3819",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3819",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -118,6 +111,27 @@
       "titulo": "Monitor de ocio y tiempo libre/ayuntamiento de herguijuela",
       "id": "3834",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3834",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Oficial de segunda agrícola para la finca la orden, perteneciente al cicytex",
+      "id": "3835",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3835",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Socorrista. e.l.m. de valdivia",
+      "id": "3836",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3836",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Aux. de administración, para estacion de itv de mérida, d.g. de movilidad y transportes, consej. infraestr., transp. y vivienda.",
+      "id": "3837",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3837",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
