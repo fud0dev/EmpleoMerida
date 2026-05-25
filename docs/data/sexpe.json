@@ -1,6 +1,6 @@
 {
-  "last_updated": "25/05/2026 11:14",
-  "count": 19,
+  "last_updated": "25/05/2026 17:10",
+  "count": 20,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -132,6 +132,13 @@
       "titulo": "Aux. de administración, para estacion de itv de mérida, d.g. de movilidad y transportes, consej. infraestr., transp. y vivienda.",
       "id": "3837",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3837",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Personal de limpieza/torrejón el rubio",
+      "id": "3838",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3838",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
