@@ -1,21 +1,7 @@
 {
-  "last_updated": "25/05/2026 17:10",
-  "count": 20,
+  "last_updated": "26/05/2026 17:57",
+  "count": 16,
   "ofertas": [
-    {
-      "titulo": "Técnico/a oficina de turismo en herrera del duque",
-      "id": "3650",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3650",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Ingeniero tecnico forestal para el instituto del corcho, la madera y el carbón vegetal (icmc) perteneciente al cicytex en mérida.",
-      "id": "3793",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3793",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
     {
       "titulo": "1 ordenanza para patronato residencia de mayores en coria",
       "id": "3795",
@@ -59,20 +45,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Director/a de ocio y tiempo libre. ayto garciaz",
-      "id": "3825",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3825",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "3 puestos de monitores/as de ocio y tiempo libre. ayto garciaz",
-      "id": "3826",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3826",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Monitor/a de ocio y tiempo libre concilia arroyo de la luz",
       "id": "3829",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3829",
@@ -83,13 +55,6 @@
       "titulo": "Director/a de ocio y tiempo libre concilia arroyo de la luz",
       "id": "3830",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3830",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Gerocultor/a para Residencia de Mayores en Villanueva de la Sierra",
-      "id": "3831",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3831",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -139,6 +104,13 @@
       "titulo": "Personal de limpieza/torrejón el rubio",
       "id": "3838",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3838",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Mantenedor/a de edificios (malpartida de cáceres)",
+      "id": "3839",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3839",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
