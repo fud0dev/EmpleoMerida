@@ -1,5 +1,5 @@
 {
-  "last_updated": "27/05/2026 10:58",
+  "last_updated": "27/05/2026 18:02",
   "count": 15,
   "ofertas": [
     {
@@ -27,13 +27,6 @@
       "titulo": "Asistente domiciliario (ayto. tornavacas)",
       "id": "3821",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3821",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Mecanico para mancomunidad la srena",
-      "id": "3822",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3822",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -90,6 +83,13 @@
       "titulo": "Mantenedor/a de edificios (malpartida de cáceres)",
       "id": "3839",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3839",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Educador/a social para badajoz y alconchel",
+      "id": "3840",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3840",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
