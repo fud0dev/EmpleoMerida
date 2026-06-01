@@ -1,11 +1,18 @@
 {
-  "last_updated": "31/05/2026 16:14",
-  "count": 5,
+  "last_updated": "01/06/2026 12:42",
+  "count": 13,
   "ofertas": [
     {
-      "titulo": "Aux. de administración, para estacion de itv de mérida, d.g. de movilidad y transportes, consej. infraestr., transp. y vivienda.",
-      "id": "3837",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3837",
+      "titulo": "Mecanico para mancomunidad la srena",
+      "id": "3822",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3822",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor/a de ocio y tiempo libre (ayto. tornavacas)",
+      "id": "3828",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3828",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -34,6 +41,55 @@
       "titulo": "Mantenedor de piscinas/la aldea del obispo",
       "id": "3843",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3843",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Director/a de ocio y tiempo libre concilia zarza de montánchez",
+      "id": "3845",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3845",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Socorrista (ayuntamiento de guijo de galisteo - valrio - batán)",
+      "id": "3846",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3846",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor/a de ocio y tiempo libre concilia zarza de montánchez",
+      "id": "3847",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3847",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "5 ate- cuidador/a c.m.m.j. \"marcelo nessi\"",
+      "id": "3848",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3848",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Director/a de ocio y tiempo libre concilia extremadura (ayuntamiento de cabañas del castillo)",
+      "id": "3849",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3849",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor/a de ocio y tiempo libre (ayuntamiento de cabañas del castillo)",
+      "id": "3850",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3850",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ate-cuidador/a para plasencia y don benito",
+      "id": "3851",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3851",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
