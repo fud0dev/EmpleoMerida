@@ -1,6 +1,6 @@
 {
-  "last_updated": "02/06/2026 11:21",
-  "count": 15,
+  "last_updated": "02/06/2026 18:43",
+  "count": 16,
   "ofertas": [
     {
       "titulo": "Mecanico para mancomunidad la srena",
@@ -104,6 +104,13 @@
       "titulo": "OFICIAL 1ª (Mata de Alcántara)",
       "id": "3853",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3853",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Cocinero/a para el centro de formación joven  baños de montemayor y el albergue juvenil valencia de alcántara",
+      "id": "3855",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3855",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
