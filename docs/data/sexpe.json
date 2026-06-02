@@ -1,6 +1,6 @@
 {
-  "last_updated": "01/06/2026 19:57",
-  "count": 13,
+  "last_updated": "02/06/2026 11:21",
+  "count": 15,
   "ofertas": [
     {
       "titulo": "Mecanico para mancomunidad la srena",
@@ -10,9 +10,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Monitor/a de ocio y tiempo libre (ayto. tornavacas)",
-      "id": "3828",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3828",
+      "titulo": "Director/a de ocio y tiempo libre (ayto tornavacas)",
+      "id": "3827",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3827",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -90,6 +90,20 @@
       "titulo": "Ate-cuidador/a para plasencia y don benito",
       "id": "3851",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3851",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "3 Gerocultor/a para Residencia de Mayores en Villanueva de la Sierra",
+      "id": "3852",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3852",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "OFICIAL 1ª (Mata de Alcántara)",
+      "id": "3853",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3853",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
