@@ -1,6 +1,6 @@
 {
-  "last_updated": "03/06/2026 11:59",
-  "count": 16,
+  "last_updated": "03/06/2026 18:49",
+  "count": 17,
   "ofertas": [
     {
       "titulo": "Mecanico para mancomunidad la srena",
@@ -111,6 +111,13 @@
       "titulo": "Técnico/a en turismo casar de cáceres",
       "id": "3857",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3857",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Auxiliar de ayuda a domicilio. ayto robledollano",
+      "id": "3858",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3858",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
