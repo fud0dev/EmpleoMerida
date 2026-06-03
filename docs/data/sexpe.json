@@ -1,5 +1,5 @@
 {
-  "last_updated": "02/06/2026 18:43",
+  "last_updated": "03/06/2026 11:59",
   "count": 16,
   "ofertas": [
     {
@@ -10,30 +10,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Director/a de ocio y tiempo libre (ayto tornavacas)",
-      "id": "3827",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3827",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Mantenedor/a de edificios (malpartida de cáceres)",
-      "id": "3839",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3839",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Ayudante de biblioteca y/o documentación-conquista de la sierra",
       "id": "3841",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3841",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Socorrista. ayuntamiento de la coronada",
-      "id": "3842",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3842",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -108,9 +87,30 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
+      "titulo": "Cocinero/a para el comedor de la e.i. aladino de azuaga",
+      "id": "3854",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3854",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
       "titulo": "Cocinero/a para el centro de formación joven  baños de montemayor y el albergue juvenil valencia de alcántara",
       "id": "3855",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3855",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Jardinero/a- ayto ruanes",
+      "id": "3856",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3856",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Técnico/a en turismo casar de cáceres",
+      "id": "3857",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3857",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
