@@ -1,6 +1,6 @@
 {
-  "last_updated": "04/06/2026 10:40",
-  "count": 15,
+  "last_updated": "04/06/2026 17:48",
+  "count": 18,
   "ofertas": [
     {
       "titulo": "Mecanico para mancomunidad la srena",
@@ -104,6 +104,27 @@
       "titulo": "Direct@r ocio tiempo libre ayuntamiento mérida",
       "id": "3859",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3859",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Director/a de ocio y tiempo libre. ayto ruanes",
+      "id": "3860",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3860",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor/a de ocio y tiempo libre. ayto de ruanes",
+      "id": "3861",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3861",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Auxiliar Administrativo para Oficina de Turismo de Moraleja",
+      "id": "3862",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3862",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
