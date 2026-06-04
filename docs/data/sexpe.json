@@ -1,6 +1,6 @@
 {
-  "last_updated": "03/06/2026 18:49",
-  "count": 17,
+  "last_updated": "04/06/2026 10:40",
+  "count": 15,
   "ofertas": [
     {
       "titulo": "Mecanico para mancomunidad la srena",
@@ -13,13 +13,6 @@
       "titulo": "Ayudante de biblioteca y/o documentación-conquista de la sierra",
       "id": "3841",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3841",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Mantenedor de piscinas/la aldea del obispo",
-      "id": "3843",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3843",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -45,13 +38,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "5 ate- cuidador/a c.m.m.j. \"marcelo nessi\"",
-      "id": "3848",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3848",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Director/a de ocio y tiempo libre concilia extremadura (ayuntamiento de cabañas del castillo)",
       "id": "3849",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3849",
@@ -62,13 +48,6 @@
       "titulo": "Monitor/a de ocio y tiempo libre (ayuntamiento de cabañas del castillo)",
       "id": "3850",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3850",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Ate-cuidador/a para plasencia y don benito",
-      "id": "3851",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3851",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -118,6 +97,13 @@
       "titulo": "Auxiliar de ayuda a domicilio. ayto robledollano",
       "id": "3858",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3858",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Direct@r ocio tiempo libre ayuntamiento mérida",
+      "id": "3859",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3859",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
