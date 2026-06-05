@@ -1,6 +1,6 @@
 {
-  "last_updated": "05/06/2026 10:51",
-  "count": 22,
+  "last_updated": "05/06/2026 17:22",
+  "count": 24,
   "ofertas": [
     {
       "titulo": "Mecanico para mancomunidad la srena",
@@ -153,6 +153,20 @@
       "titulo": "Dinamizador sociocultural/ayuntamiento de torrejón el rubio",
       "id": "3869",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3869",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Socorrista acuático con título de mantenedor/a de piscinas",
+      "id": "3870",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3870",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "2 socorristas (garrovillas de alconétar)",
+      "id": "3871",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3871",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
