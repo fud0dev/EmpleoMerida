@@ -1,6 +1,6 @@
 {
-  "last_updated": "04/06/2026 17:48",
-  "count": 18,
+  "last_updated": "05/06/2026 10:51",
+  "count": 22,
   "ofertas": [
     {
       "titulo": "Mecanico para mancomunidad la srena",
@@ -38,20 +38,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Director/a de ocio y tiempo libre concilia extremadura (ayuntamiento de cabañas del castillo)",
-      "id": "3849",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3849",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Monitor/a de ocio y tiempo libre (ayuntamiento de cabañas del castillo)",
-      "id": "3850",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3850",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "3 Gerocultor/a para Residencia de Mayores en Villanueva de la Sierra",
       "id": "3852",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3852",
@@ -69,13 +55,6 @@
       "titulo": "Cocinero/a para el comedor de la e.i. aladino de azuaga",
       "id": "3854",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3854",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Cocinero/a para el centro de formación joven  baños de montemayor y el albergue juvenil valencia de alcántara",
-      "id": "3855",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3855",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -125,6 +104,55 @@
       "titulo": "Auxiliar Administrativo para Oficina de Turismo de Moraleja",
       "id": "3862",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3862",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Cocinero/a para Residencia de Villanueva de la Sierra",
+      "id": "3863",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3863",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Fotógrafo/a videógrafo/a para diputación de badajoz.",
+      "id": "3864",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3864",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor de ocio y tiempo libre/ayuntamiento de torrejón el rubio",
+      "id": "3865",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3865",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Director/a de ocio y tiempo libre/ayuntamiento de torrejón el rubio",
+      "id": "3866",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3866",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Médico forense en el ámbito de los institutos de medicina legal y ciencias forenses de extremadura para cáceres.",
+      "id": "3867",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3867",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Conserje con discapacidad/ayuntamiento de torrejón el rubio",
+      "id": "3868",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3868",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Dinamizador sociocultural/ayuntamiento de torrejón el rubio",
+      "id": "3869",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3869",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
