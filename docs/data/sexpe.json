@@ -1,6 +1,6 @@
 {
-  "last_updated": "08/06/2026 12:02",
-  "count": 24,
+  "last_updated": "08/06/2026 17:59",
+  "count": 25,
   "ofertas": [
     {
       "titulo": "Mecanico para mancomunidad la srena",
@@ -167,6 +167,13 @@
       "titulo": "Educador/a para los centros residenciales adscritos a la dirección genercia del sepad, don benito y plasencia",
       "id": "3876",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3876",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Celador/a con discapacidad. ayto madroñera",
+      "id": "3877",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3877",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
