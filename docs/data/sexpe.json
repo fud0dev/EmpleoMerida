@@ -1,6 +1,6 @@
 {
-  "last_updated": "07/06/2026 16:21",
-  "count": 23,
+  "last_updated": "08/06/2026 12:02",
+  "count": 24,
   "ofertas": [
     {
       "titulo": "Mecanico para mancomunidad la srena",
@@ -13,20 +13,6 @@
       "titulo": "Ayudante de biblioteca y/o documentación-conquista de la sierra",
       "id": "3841",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3841",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Director/a de ocio y tiempo libre concilia zarza de montánchez",
-      "id": "3845",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3845",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Monitor/a de ocio y tiempo libre concilia zarza de montánchez",
-      "id": "3847",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3847",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -59,23 +45,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Técnico/a en turismo casar de cáceres",
-      "id": "3857",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3857",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Auxiliar de ayuda a domicilio. ayto robledollano",
       "id": "3858",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3858",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Direct@r ocio tiempo libre ayuntamiento mérida",
-      "id": "3859",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3859",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -150,7 +122,7 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Socorrista acuático con título de mantenedor/a de piscinas",
+      "titulo": "Socorrista acuático con título de mantenedor/a de piscinas (ayto. de la  pesga)",
       "id": "3870",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3870",
       "fuente": "SEXPE",
@@ -160,6 +132,41 @@
       "titulo": "2 socorristas (garrovillas de alconétar)",
       "id": "3871",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3871",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "40 educador/a para los centos de atención al menor y centro de cumplimiento de medidas judiciales, en distintas localidades",
+      "id": "3872",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3872",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Conductor/a operario/a servicio recogida residuos solidos urbanos- mancomunidad municipios siberia",
+      "id": "3873",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3873",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ingenieros/as agrónomos para la delegación del gobierno en extremadura",
+      "id": "3874",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3874",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor/a sociocultural. e.l.m. de valdivia",
+      "id": "3875",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3875",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Educador/a para los centros residenciales adscritos a la dirección genercia del sepad, don benito y plasencia",
+      "id": "3876",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3876",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
