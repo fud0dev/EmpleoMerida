@@ -1,6 +1,6 @@
 {
-  "last_updated": "08/06/2026 17:59",
-  "count": 25,
+  "last_updated": "09/06/2026 17:26",
+  "count": 26,
   "ofertas": [
     {
       "titulo": "Mecanico para mancomunidad la srena",
@@ -31,20 +31,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Cocinero/a para el comedor de la e.i. aladino de azuaga",
-      "id": "3854",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3854",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Jardinero/a- ayto ruanes",
-      "id": "3856",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3856",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Auxiliar de ayuda a domicilio. ayto robledollano",
       "id": "3858",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3858",
@@ -62,13 +48,6 @@
       "titulo": "Monitor/a de ocio y tiempo libre. ayto de ruanes",
       "id": "3861",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3861",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Auxiliar Administrativo para Oficina de Turismo de Moraleja",
-      "id": "3862",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3862",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -174,6 +153,34 @@
       "titulo": "Celador/a con discapacidad. ayto madroñera",
       "id": "3877",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3877",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Cocinero/a para el comedor de la ei ntra sera de belén de zafra",
+      "id": "3878",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3878",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor/a de ocio y tiempo libre-ayuntamiento de conquista de la sierra",
+      "id": "3879",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3879",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ayuntamiento de navalvillar de ibor socorrista",
+      "id": "3881",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3881",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Educador/a para la delegación provincial de educación. badajoz. ies ntra sra. de botoa",
+      "id": "3882",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3882",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
