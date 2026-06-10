@@ -1,6 +1,6 @@
 {
-  "last_updated": "10/06/2026 10:59",
-  "count": 24,
+  "last_updated": "10/06/2026 18:06",
+  "count": 26,
   "ofertas": [
     {
       "titulo": "Mecanico para mancomunidad la srena",
@@ -167,6 +167,20 @@
       "titulo": "1 director/a de ocio y tiempo libre/ayuntamiento de torrecillas de la tiesa",
       "id": "3884",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3884",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "SOCORRISTA - Ayto Barcarrota",
+      "id": "3885",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3885",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Socorrista acuático (ayuntamiento de palomero)",
+      "id": "3886",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3886",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
