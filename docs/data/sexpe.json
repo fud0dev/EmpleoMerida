@@ -1,6 +1,6 @@
 {
-  "last_updated": "09/06/2026 17:26",
-  "count": 26,
+  "last_updated": "10/06/2026 10:59",
+  "count": 24,
   "ofertas": [
     {
       "titulo": "Mecanico para mancomunidad la srena",
@@ -10,9 +10,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Ayudante de biblioteca y/o documentación-conquista de la sierra",
-      "id": "3841",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3841",
+      "titulo": "Socorrista (ayuntamiento de guijo de galisteo - valrio - batán)",
+      "id": "3846",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3846",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -24,30 +24,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "OFICIAL 1ª (Mata de Alcántara)",
-      "id": "3853",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3853",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Auxiliar de ayuda a domicilio. ayto robledollano",
       "id": "3858",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3858",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Director/a de ocio y tiempo libre. ayto ruanes",
-      "id": "3860",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3860",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Monitor/a de ocio y tiempo libre. ayto de ruanes",
-      "id": "3861",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3861",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -104,13 +83,6 @@
       "titulo": "Socorrista acuático con título de mantenedor/a de piscinas (ayto. de la  pesga)",
       "id": "3870",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3870",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "2 socorristas (garrovillas de alconétar)",
-      "id": "3871",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3871",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -181,6 +153,20 @@
       "titulo": "Educador/a para la delegación provincial de educación. badajoz. ies ntra sra. de botoa",
       "id": "3882",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3882",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "5 monitores de educación y tiempo libre/ayuntamiento de torrecillas de la tiesa",
+      "id": "3883",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3883",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "1 director/a de ocio y tiempo libre/ayuntamiento de torrecillas de la tiesa",
+      "id": "3884",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3884",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
