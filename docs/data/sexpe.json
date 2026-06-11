@@ -1,6 +1,6 @@
 {
-  "last_updated": "10/06/2026 18:06",
-  "count": 26,
+  "last_updated": "11/06/2026 11:25",
+  "count": 19,
   "ofertas": [
     {
       "titulo": "Mecanico para mancomunidad la srena",
@@ -45,37 +45,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Monitor de ocio y tiempo libre/ayuntamiento de torrejón el rubio",
-      "id": "3865",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3865",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Director/a de ocio y tiempo libre/ayuntamiento de torrejón el rubio",
-      "id": "3866",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3866",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Médico forense en el ámbito de los institutos de medicina legal y ciencias forenses de extremadura para cáceres.",
       "id": "3867",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3867",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Conserje con discapacidad/ayuntamiento de torrejón el rubio",
-      "id": "3868",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3868",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Dinamizador sociocultural/ayuntamiento de torrejón el rubio",
-      "id": "3869",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3869",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -87,13 +59,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "40 educador/a para los centos de atención al menor y centro de cumplimiento de medidas judiciales, en distintas localidades",
-      "id": "3872",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3872",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Conductor/a operario/a servicio recogida residuos solidos urbanos- mancomunidad municipios siberia",
       "id": "3873",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3873",
@@ -101,23 +66,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Ingenieros/as agrónomos para la delegación del gobierno en extremadura",
-      "id": "3874",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3874",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Monitor/a sociocultural. e.l.m. de valdivia",
       "id": "3875",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3875",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Educador/a para los centros residenciales adscritos a la dirección genercia del sepad, don benito y plasencia",
-      "id": "3876",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3876",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -139,13 +90,6 @@
       "titulo": "Monitor/a de ocio y tiempo libre-ayuntamiento de conquista de la sierra",
       "id": "3879",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3879",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Ayuntamiento de navalvillar de ibor socorrista",
-      "id": "3881",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3881",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -181,6 +125,13 @@
       "titulo": "Socorrista acuático (ayuntamiento de palomero)",
       "id": "3886",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3886",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Pastor consejería de agricultura, ganadería y medio natural en badajoz",
+      "id": "3887",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3887",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }

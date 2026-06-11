@@ -1,13 +1,37 @@
 {
-  "last_updated": "10/06/2026 18:06",
+  "last_updated": "11/06/2026 11:25",
   "count": 24,
   "ofertas": [
+    {
+      "id": "112026010966",
+      "titulo": "6 pintores (1ª y 2ª)",
+      "fecha": "11/06/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026010966&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026010957",
+      "titulo": "6 albañiles (1ª y2ª)",
+      "fecha": "11/06/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026010957&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026009606",
+      "titulo": "Personal de limpieza con discapacidad",
+      "fecha": "11/06/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026009606&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
+      "fuente": "SNE"
+    },
     {
       "id": "112026012122",
       "titulo": "3 operarios de limpieza con discapacidad",
       "fecha": "10/06/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026012122&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026012122&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -15,7 +39,7 @@
       "titulo": "Auxiliar de ayuda a domicilio",
       "fecha": "10/06/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026012101&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026012101&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -23,7 +47,7 @@
       "titulo": "Topógrafo de campo",
       "fecha": "10/06/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026012051&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026012051&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -31,7 +55,7 @@
       "titulo": "3 puestos camarero/a",
       "fecha": "10/06/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026012084&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026012084&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -39,7 +63,7 @@
       "titulo": "Palista.  pala llenadora",
       "fecha": "10/06/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026009479&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026009479&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -47,7 +71,7 @@
       "titulo": "Técnico de proyectos de i+d+i",
       "fecha": "09/06/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026011911&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026011911&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -55,7 +79,7 @@
       "titulo": "Orientador laboral con discapacidad y/o incapacidad",
       "fecha": "08/06/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026010195&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026010195&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -63,7 +87,7 @@
       "titulo": "Limpiadores/as con discapacidadad mayor o igual 33",
       "fecha": "08/06/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026008284&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026008284&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -71,7 +95,7 @@
       "titulo": "Arqueólogo/a",
       "fecha": "05/06/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026011627&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026011627&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -79,7 +103,7 @@
       "titulo": "Ingeniero informatico",
       "fecha": "05/06/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026011629&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026011629&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -87,7 +111,7 @@
       "titulo": "Técnico en recursos humanos",
       "fecha": "05/06/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026011610&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026011610&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -95,7 +119,7 @@
       "titulo": "Recepcionista de apartamentos",
       "fecha": "04/06/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026011492&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026011492&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -103,7 +127,7 @@
       "titulo": "Mantenedor/a de edificios-oficial de segunda",
       "fecha": "04/06/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026011464&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026011464&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -111,7 +135,7 @@
       "titulo": "Conductor/a camión",
       "fecha": "04/06/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026011400&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026011400&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -119,7 +143,7 @@
       "titulo": "Mecanico frigorista vehiculo industrial",
       "fecha": "04/06/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026008240&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026008240&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -127,31 +151,7 @@
       "titulo": "Peluquero/a",
       "fecha": "03/06/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026011240&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
-      "fuente": "SNE"
-    },
-    {
-      "id": "112026010966",
-      "titulo": "6 pintores (1ª y 2ª)",
-      "fecha": "01/06/2026",
-      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026010966&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
-      "fuente": "SNE"
-    },
-    {
-      "id": "112026010957",
-      "titulo": "6 albañiles (1ª y2ª)",
-      "fecha": "01/06/2026",
-      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026010957&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
-      "fuente": "SNE"
-    },
-    {
-      "id": "112026010675",
-      "titulo": "Ayudante de cocina",
-      "fecha": "28/05/2026",
-      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026010675&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026011240&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -159,7 +159,7 @@
       "titulo": "Oficial de primera mecánico/electromecánico en la localidad de mérida",
       "fecha": "28/05/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026007765&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026007765&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -167,7 +167,7 @@
       "titulo": "Ayudante de cocina",
       "fecha": "26/05/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026007020&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026007020&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -175,7 +175,7 @@
       "titulo": "Jefe de cocina",
       "fecha": "10/04/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026000320&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026000320&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -183,7 +183,7 @@
       "titulo": "Jefe/a de sala-maitre",
       "fecha": "23/03/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026005324&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026005324&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     },
     {
@@ -191,7 +191,7 @@
       "titulo": "Conductor/a camión con discapacidad",
       "fecha": "09/02/2026",
       "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
-      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026002248&ret=B&idFlujo=ufOrtdyWG16qrTOOqGH6bwv1584",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026002248&ret=B&idFlujo=9A2jp-Uy3pf5vHJdOLNRzok7104",
       "fuente": "SNE"
     }
   ]
