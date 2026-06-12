@@ -1,5 +1,125 @@
 {
-  "last_updated": "11/06/2026 18:19",
-  "count": 0,
-  "ofertas": []
+  "last_updated": "12/06/2026 11:04",
+  "count": 17,
+  "ofertas": [
+    {
+      "titulo": "Mecanico para mancomunidad la srena",
+      "id": "3822",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3822",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Socorrista (ayuntamiento de guijo de galisteo - valrio - batán)",
+      "id": "3846",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3846",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "3 Gerocultor/a para Residencia de Mayores en Villanueva de la Sierra",
+      "id": "3852",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3852",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Auxiliar de ayuda a domicilio. ayto robledollano",
+      "id": "3858",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3858",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Cocinero/a para Residencia de Villanueva de la Sierra",
+      "id": "3863",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3863",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Fotógrafo/a videógrafo/a para diputación de badajoz.",
+      "id": "3864",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3864",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Socorrista acuático con título de mantenedor/a de piscinas (ayto. de la  pesga)",
+      "id": "3870",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3870",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Conductor/a operario/a servicio recogida residuos solidos urbanos- mancomunidad municipios siberia",
+      "id": "3873",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3873",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Cocinero/a para el comedor de la ei ntra sera de belén de zafra",
+      "id": "3878",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3878",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor/a de ocio y tiempo libre-ayuntamiento de conquista de la sierra",
+      "id": "3879",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3879",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "5 monitores de educación y tiempo libre/ayuntamiento de torrecillas de la tiesa",
+      "id": "3883",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3883",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "1 director/a de ocio y tiempo libre/ayuntamiento de torrecillas de la tiesa",
+      "id": "3884",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3884",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "SOCORRISTA - Ayto Barcarrota",
+      "id": "3885",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3885",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Socorrista acuático (ayuntamiento de palomero)",
+      "id": "3886",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3886",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Pastor consejería de agricultura, ganadería y medio natural en badajoz",
+      "id": "3887",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3887",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Cocinero/a para el sepad diferente localidades de badajoz y cáceres",
+      "id": "3888",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3888",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Cocinero. centros de atención al menor",
+      "id": "3889",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3889",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    }
+  ]
 }
