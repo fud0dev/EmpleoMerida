@@ -1,6 +1,6 @@
 {
-  "last_updated": "12/06/2026 11:04",
-  "count": 17,
+  "last_updated": "12/06/2026 17:40",
+  "count": 18,
   "ofertas": [
     {
       "titulo": "Mecanico para mancomunidad la srena",
@@ -118,6 +118,13 @@
       "titulo": "Cocinero. centros de atención al menor",
       "id": "3889",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3889",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Personal de la categoría de e2 cocina y gastronomía para el camf alcuéscar",
+      "id": "3891",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3891",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
