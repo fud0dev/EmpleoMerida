@@ -1,6 +1,6 @@
 {
-  "last_updated": "14/06/2026 16:26",
-  "count": 15,
+  "last_updated": "15/06/2026 13:20",
+  "count": 14,
   "ofertas": [
     {
       "titulo": "Mecanico para mancomunidad la srena",
@@ -24,13 +24,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Auxiliar de ayuda a domicilio. ayto robledollano",
-      "id": "3858",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3858",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Cocinero/a para Residencia de Villanueva de la Sierra",
       "id": "3863",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3863",
@@ -41,20 +34,6 @@
       "titulo": "Fotógrafo/a videógrafo/a para diputación de badajoz.",
       "id": "3864",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3864",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Socorrista acuático con título de mantenedor/a de piscinas (ayto. de la  pesga)",
-      "id": "3870",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3870",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Cocinero/a para el comedor de la ei ntra sera de belén de zafra",
-      "id": "3878",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3878",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -73,23 +52,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "SOCORRISTA - Ayto Barcarrota",
-      "id": "3885",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3885",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Socorrista acuático (ayuntamiento de palomero)",
       "id": "3886",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3886",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Pastor consejería de agricultura, ganadería y medio natural en badajoz",
-      "id": "3887",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3887",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -101,9 +66,37 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Personal de la categoría de e2 cocina y gastronomía para el camf alcuéscar",
-      "id": "3891",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3891",
+      "titulo": "Monitor/a ocio y tiempo libre/ayuntamiento de la cumbre",
+      "id": "3892",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3892",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Director/a ocio y tiempo libre/ayuntamiento de la cumbre",
+      "id": "3893",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3893",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "E1 servicios administrativos para el camf de alcuéscar",
+      "id": "3894",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3894",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor/a de ocio y tiempo libre concilia (benquerencia)",
+      "id": "3895",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3895",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Director/a de ocio y tiempo libre concilia benquerencia",
+      "id": "3896",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3896",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
