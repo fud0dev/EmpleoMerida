@@ -1,18 +1,11 @@
 {
-  "last_updated": "15/06/2026 19:06",
+  "last_updated": "16/06/2026 12:14",
   "count": 14,
   "ofertas": [
     {
       "titulo": "Mecanico para mancomunidad la srena",
       "id": "3822",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3822",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Socorrista (ayuntamiento de guijo de galisteo - valrio - batán)",
-      "id": "3846",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3846",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -52,16 +45,16 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Socorrista acuático (ayuntamiento de palomero)",
-      "id": "3886",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3886",
+      "titulo": "SOCORRISTA - Ayto Barcarrota",
+      "id": "3885",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3885",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "E1 actividades domesticos y limpieza de edificios, camf alcuéscar",
-      "id": "3890",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3890",
+      "titulo": "Socorrista acuático (ayuntamiento de palomero)",
+      "id": "3886",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3886",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -97,6 +90,13 @@
       "titulo": "Director/a de ocio y tiempo libre concilia benquerencia",
       "id": "3896",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3896",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Peón de obras públicas con discapacidad/ayuntamiento de santa ana",
+      "id": "3897",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3897",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
