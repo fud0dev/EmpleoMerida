@@ -1,6 +1,6 @@
 {
-  "last_updated": "16/06/2026 18:56",
-  "count": 14,
+  "last_updated": "17/06/2026 11:53",
+  "count": 16,
   "ofertas": [
     {
       "titulo": "Mecanico para mancomunidad la srena",
@@ -97,6 +97,20 @@
       "titulo": "Peón de obras públicas con discapacidad/ayuntamiento de santa ana",
       "id": "3897",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3897",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Técnico/a en educación infantil. ayto torrejon el rubio",
+      "id": "3898",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3898",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "OFICIAL 1ª CONDUCTOR EN VARIAS LOCALIDADES PARA EL SEPAD",
+      "id": "3899",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3899",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
