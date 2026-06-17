@@ -1,14 +1,7 @@
 {
-  "last_updated": "17/06/2026 11:53",
+  "last_updated": "17/06/2026 17:50",
   "count": 16,
   "ofertas": [
-    {
-      "titulo": "Mecanico para mancomunidad la srena",
-      "id": "3822",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3822",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
     {
       "titulo": "3 Gerocultor/a para Residencia de Mayores en Villanueva de la Sierra",
       "id": "3852",
@@ -111,6 +104,13 @@
       "titulo": "OFICIAL 1ª CONDUCTOR EN VARIAS LOCALIDADES PARA EL SEPAD",
       "id": "3899",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3899",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Técnico auxiliar de enfermería ó técnico en atención a personas en situación de dependencia(arroyo de la luz)",
+      "id": "3900",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3900",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
