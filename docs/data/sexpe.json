@@ -1,6 +1,6 @@
 {
-  "last_updated": "18/06/2026 11:11",
-  "count": 15,
+  "last_updated": "18/06/2026 18:07",
+  "count": 16,
   "ofertas": [
     {
       "titulo": "3 Gerocultor/a para Residencia de Mayores en Villanueva de la Sierra",
@@ -104,6 +104,13 @@
       "titulo": "4 OFICIALES 2ª CONDUCTOR EN DIFERENTES LOCALIDADES DE LAS PROVINCIAS DE CÁCERES Y BADAJOZ PARA EL SEPAD.",
       "id": "3904",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3904",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "SOCORRISTA PARA ELJAS (Cáceres)",
+      "id": "3905",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3905",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
