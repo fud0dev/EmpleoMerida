@@ -1,6 +1,6 @@
 {
-  "last_updated": "17/06/2026 17:50",
-  "count": 16,
+  "last_updated": "18/06/2026 11:11",
+  "count": 15,
   "ofertas": [
     {
       "titulo": "3 Gerocultor/a para Residencia de Mayores en Villanueva de la Sierra",
@@ -24,34 +24,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "5 monitores de educación y tiempo libre/ayuntamiento de torrecillas de la tiesa",
-      "id": "3883",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3883",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "1 director/a de ocio y tiempo libre/ayuntamiento de torrecillas de la tiesa",
-      "id": "3884",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3884",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "SOCORRISTA - Ayto Barcarrota",
-      "id": "3885",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3885",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Socorrista acuático (ayuntamiento de palomero)",
-      "id": "3886",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3886",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Monitor/a ocio y tiempo libre/ayuntamiento de la cumbre",
       "id": "3892",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3892",
@@ -62,13 +34,6 @@
       "titulo": "Director/a ocio y tiempo libre/ayuntamiento de la cumbre",
       "id": "3893",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3893",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "E1 servicios administrativos para el camf de alcuéscar",
-      "id": "3894",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3894",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -111,6 +76,34 @@
       "titulo": "Técnico auxiliar de enfermería ó técnico en atención a personas en situación de dependencia(arroyo de la luz)",
       "id": "3900",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3900",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "OFICIAL 2ª MANTENIMIENTO PARA EL INSTITUTO DE LA JUVENTUD DE EXTREMADURA EN VALENCIA DE ALCÁNTARA.",
+      "id": "3901",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3901",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Tecnico/a ciudades saludables-mancomunidad de municipios siberia",
+      "id": "3902",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3902",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "SOCORRISTA PARA VILLAMIEL (Cáceres)",
+      "id": "3903",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3903",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "4 OFICIALES 2ª CONDUCTOR EN DIFERENTES LOCALIDADES DE LAS PROVINCIAS DE CÁCERES Y BADAJOZ PARA EL SEPAD.",
+      "id": "3904",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3904",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
