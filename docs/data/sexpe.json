@@ -1,6 +1,6 @@
 {
-  "last_updated": "18/06/2026 18:07",
-  "count": 16,
+  "last_updated": "19/06/2026 11:26",
+  "count": 17,
   "ofertas": [
     {
       "titulo": "3 Gerocultor/a para Residencia de Mayores en Villanueva de la Sierra",
@@ -13,13 +13,6 @@
       "titulo": "Cocinero/a para Residencia de Villanueva de la Sierra",
       "id": "3863",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3863",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Fotógrafo/a videógrafo/a para diputación de badajoz.",
-      "id": "3864",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3864",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -111,6 +104,20 @@
       "titulo": "SOCORRISTA PARA ELJAS (Cáceres)",
       "id": "3905",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3905",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Informador/a turístico para centro de interpretación/ayuntamiento de plasenzuela",
+      "id": "3906",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3906",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Guarda/vigilante museo(malpartida de cáceres)",
+      "id": "3907",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3907",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
