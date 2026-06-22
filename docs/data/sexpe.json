@@ -1,14 +1,7 @@
 {
-  "last_updated": "21/06/2026 16:48",
+  "last_updated": "22/06/2026 12:52",
   "count": 9,
   "ofertas": [
-    {
-      "titulo": "3 Gerocultor/a para Residencia de Mayores en Villanueva de la Sierra",
-      "id": "3852",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3852",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
     {
       "titulo": "Cocinero/a para Residencia de Villanueva de la Sierra",
       "id": "3863",
@@ -62,6 +55,13 @@
       "titulo": "Guarda/vigilante museo(malpartida de cáceres)",
       "id": "3907",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3907",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ayuntamiento de el gordo auxiliar administrativo",
+      "id": "3908",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3908",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
