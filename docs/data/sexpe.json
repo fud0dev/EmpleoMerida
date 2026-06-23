@@ -1,18 +1,11 @@
 {
-  "last_updated": "22/06/2026 18:50",
-  "count": 9,
+  "last_updated": "23/06/2026 10:38",
+  "count": 10,
   "ofertas": [
     {
       "titulo": "Cocinero/a para Residencia de Villanueva de la Sierra",
       "id": "3863",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3863",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Técnico/a en educación infantil. ayto torrejon el rubio",
-      "id": "3898",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3898",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -62,6 +55,20 @@
       "titulo": "Ayuntamiento de el gordo auxiliar administrativo",
       "id": "3908",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3908",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "OFICIAL DE 2ª AGRICOLA - CICYTEX -FINCA LA ORDEN",
+      "id": "3909",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3909",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "E2 cuidados auxiliares de enfermería - camf alcuéscar",
+      "id": "3911",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3911",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
