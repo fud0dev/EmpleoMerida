@@ -1,7 +1,21 @@
 {
-  "last_updated": "23/06/2026 10:38",
-  "count": 10,
+  "last_updated": "23/06/2026 17:20",
+  "count": 16,
   "ofertas": [
+    {
+      "titulo": "Director/a de ocio y tiempo libre (ayto tornavacas)",
+      "id": "3827",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3827",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor/a de ocio y tiempo libre (ayto. tornavacas)",
+      "id": "3828",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3828",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
     {
       "titulo": "Cocinero/a para Residencia de Villanueva de la Sierra",
       "id": "3863",
@@ -66,9 +80,37 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
+      "titulo": "Director ocio y tiempo libre  ayuntamiento casas de don antonio",
+      "id": "3910",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3910",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
       "titulo": "E2 cuidados auxiliares de enfermería - camf alcuéscar",
       "id": "3911",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3911",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "9 peón/a especializado/a agrícola para el cicytex en la finca la orden en guadajira",
+      "id": "3912",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3912",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Encargado/a consejería de agricultura, ganadería y medio natural jaraíz de la vera",
+      "id": "3913",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3913",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Dinamizador/a deportivo/a.mancomunidad integral de servicios la serena-vegas altas",
+      "id": "3916",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3916",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
