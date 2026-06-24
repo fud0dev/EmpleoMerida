@@ -1,6 +1,6 @@
 {
-  "last_updated": "24/06/2026 10:25",
-  "count": 20,
+  "last_updated": "24/06/2026 17:08",
+  "count": 21,
   "ofertas": [
     {
       "titulo": "Director/a de ocio y tiempo libre (ayto tornavacas)",
@@ -139,6 +139,13 @@
       "titulo": "1 agente del medio natural por el cicytex para mérida",
       "id": "3919",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3919",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "2 conductores/as - mecanicos/as - operarios/as especialistas en camión y vehículos especiales (villar del rey)",
+      "id": "3920",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3920",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
