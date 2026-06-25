@@ -1,21 +1,7 @@
 {
-  "last_updated": "24/06/2026 17:08",
-  "count": 21,
+  "last_updated": "25/06/2026 10:17",
+  "count": 18,
   "ofertas": [
-    {
-      "titulo": "Director/a de ocio y tiempo libre (ayto tornavacas)",
-      "id": "3827",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3827",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Monitor/a de ocio y tiempo libre (ayto. tornavacas)",
-      "id": "3828",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3828",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
     {
       "titulo": "Técnico/a en turismo casar de cáceres",
       "id": "3857",
@@ -31,16 +17,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Técnico auxiliar de enfermería ó técnico en atención a personas en situación de dependencia(arroyo de la luz)",
-      "id": "3900",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3900",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "SOCORRISTA PARA VILLAMIEL (Cáceres)",
-      "id": "3903",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3903",
+      "titulo": "Tecnico/a ciudades saludables-mancomunidad de municipios siberia",
+      "id": "3902",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3902",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -48,20 +27,6 @@
       "titulo": "SOCORRISTA PARA ELJAS (Cáceres)",
       "id": "3905",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3905",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Informador/a turístico para centro de interpretación/ayuntamiento de plasenzuela",
-      "id": "3906",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3906",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Guarda/vigilante museo(malpartida de cáceres)",
-      "id": "3907",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3907",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -146,6 +111,20 @@
       "titulo": "2 conductores/as - mecanicos/as - operarios/as especialistas en camión y vehículos especiales (villar del rey)",
       "id": "3920",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3920",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor ocio y tiempo libre casas de don antonio",
+      "id": "3921",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3921",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Tecnico en turismo ayuntamiento de guadalupe.",
+      "id": "3922",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3922",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
