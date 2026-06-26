@@ -1,6 +1,6 @@
 {
-  "last_updated": "25/06/2026 17:14",
-  "count": 18,
+  "last_updated": "26/06/2026 10:25",
+  "count": 15,
   "ofertas": [
     {
       "titulo": "Técnico/a en turismo casar de cáceres",
@@ -24,37 +24,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "SOCORRISTA PARA ELJAS (Cáceres)",
-      "id": "3905",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3905",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "OFICIAL DE 2ª AGRICOLA - CICYTEX -FINCA LA ORDEN",
-      "id": "3909",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3909",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Director ocio y tiempo libre  ayuntamiento casas de don antonio",
       "id": "3910",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3910",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "E2 cuidados auxiliares de enfermería - camf alcuéscar",
-      "id": "3911",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3911",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "9 peón/a especializado/a agrícola para el cicytex en la finca la orden en guadajira",
-      "id": "3912",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3912",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -125,6 +97,13 @@
       "titulo": "Tecnico en turismo ayuntamiento de guadalupe.",
       "id": "3922",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3922",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor de ocio y tiempo libre (concilia) en carrascalejo(cáceres)",
+      "id": "3923",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3923",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
