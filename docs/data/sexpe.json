@@ -1,14 +1,7 @@
 {
-  "last_updated": "28/06/2026 16:15",
-  "count": 13,
+  "last_updated": "29/06/2026 12:02",
+  "count": 11,
   "ofertas": [
-    {
-      "titulo": "Técnico/a en turismo casar de cáceres",
-      "id": "3857",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3857",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
     {
       "titulo": "Cocinero/a para Residencia de Villanueva de la Sierra",
       "id": "3863",
@@ -20,13 +13,6 @@
       "titulo": "Director ocio y tiempo libre  ayuntamiento casas de don antonio",
       "id": "3910",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3910",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Monitor/a de ocio y tiempo libre concilia santa marta de magasca",
-      "id": "3917",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3917",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -66,13 +52,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "OFICIAL 1ª MANTENIMIENTO. SEPAD.",
-      "id": "3924",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3924",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "1 técnico/a de salud deportiva del programa el ejercicio te cuida para varias localidades de badajoz",
       "id": "3925",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3925",
@@ -80,16 +59,23 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "OFICIAL 2ª MANTENIMIENTO. SEPAD AZUAGA Y HERRERA DEL DUQUE",
-      "id": "3926",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3926",
+      "titulo": "Operario mantenimiento piscina (ayto.casas del castañar)",
+      "id": "3927",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3927",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Operario mantenimiento piscina (ayto.casas del castañar)",
-      "id": "3927",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3927",
+      "titulo": "Auxiliar de geriatría residencia de romangordo",
+      "id": "3928",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3928",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "M2 enfermería camf alcuéscar",
+      "id": "3929",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3929",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
