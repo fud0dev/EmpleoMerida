@@ -1,6 +1,6 @@
 {
-  "last_updated": "29/06/2026 12:02",
-  "count": 11,
+  "last_updated": "29/06/2026 17:41",
+  "count": 12,
   "ofertas": [
     {
       "titulo": "Cocinero/a para Residencia de Villanueva de la Sierra",
@@ -76,6 +76,13 @@
       "titulo": "M2 enfermería camf alcuéscar",
       "id": "3929",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3929",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Asesor/a jurídico/a. mancomunidad integral de servicios la serena vegas altas",
+      "id": "3930",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3930",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
