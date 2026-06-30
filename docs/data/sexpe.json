@@ -1,11 +1,11 @@
 {
-  "last_updated": "29/06/2026 17:41",
+  "last_updated": "30/06/2026 10:33",
   "count": 12,
   "ofertas": [
     {
-      "titulo": "Cocinero/a para Residencia de Villanueva de la Sierra",
-      "id": "3863",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3863",
+      "titulo": "Técnico/a oficina de turismo en herrera del duque",
+      "id": "3650",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3650",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -45,13 +45,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Monitor de ocio y tiempo libre (concilia) en carrascalejo(cáceres)",
-      "id": "3923",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3923",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "1 técnico/a de salud deportiva del programa el ejercicio te cuida para varias localidades de badajoz",
       "id": "3925",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3925",
@@ -83,6 +76,13 @@
       "titulo": "Asesor/a jurídico/a. mancomunidad integral de servicios la serena vegas altas",
       "id": "3930",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3930",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "OF. 2ª MANTENIMIENTO PARA EL CAM JARDÍN DEL SAUCE POR LA VICEPRESIDENCIA Y CONSEJ DE DESREGULACIÓN SERV. SOC. Y FAMILIA EN CÁCERES",
+      "id": "3931",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3931",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
