@@ -1,6 +1,6 @@
 {
-  "last_updated": "30/06/2026 10:33",
-  "count": 12,
+  "last_updated": "30/06/2026 17:08",
+  "count": 13,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -59,13 +59,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Auxiliar de geriatría residencia de romangordo",
-      "id": "3928",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3928",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "M2 enfermería camf alcuéscar",
       "id": "3929",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3929",
@@ -83,6 +76,20 @@
       "titulo": "OF. 2ª MANTENIMIENTO PARA EL CAM JARDÍN DEL SAUCE POR LA VICEPRESIDENCIA Y CONSEJ DE DESREGULACIÓN SERV. SOC. Y FAMILIA EN CÁCERES",
       "id": "3931",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3931",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Director/a de ocio y tiempo libre. ayto robledollano",
+      "id": "3932",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3932",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Auxiliar de enfermería (varios puestos) por el sepad en varias localidades de las prov. de cáceres y badajoz.",
+      "id": "3933",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3933",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
