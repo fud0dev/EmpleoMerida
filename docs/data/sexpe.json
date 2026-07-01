@@ -1,11 +1,18 @@
 {
-  "last_updated": "01/07/2026 10:44",
+  "last_updated": "01/07/2026 17:20",
   "count": 12,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
       "id": "3650",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3650",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Conserje con discapacidad/ayuntamiento de torrejón el rubio",
+      "id": "3868",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3868",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -20,13 +27,6 @@
       "titulo": "Auxiliar de enfermería santa marta de magasca 4",
       "id": "3918",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3918",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "2 conductores/as - mecanicos/as - operarios/as especialistas en camión y vehículos especiales (villar del rey)",
-      "id": "3920",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3920",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
