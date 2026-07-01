@@ -1,6 +1,6 @@
 {
-  "last_updated": "30/06/2026 17:08",
-  "count": 13,
+  "last_updated": "01/07/2026 10:44",
+  "count": 12,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -38,27 +38,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Tecnico en turismo ayuntamiento de guadalupe.",
-      "id": "3922",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3922",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "1 técnico/a de salud deportiva del programa el ejercicio te cuida para varias localidades de badajoz",
-      "id": "3925",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3925",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Operario mantenimiento piscina (ayto.casas del castañar)",
-      "id": "3927",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3927",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "M2 enfermería camf alcuéscar",
       "id": "3929",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3929",
@@ -90,6 +69,20 @@
       "titulo": "Auxiliar de enfermería (varios puestos) por el sepad en varias localidades de las prov. de cáceres y badajoz.",
       "id": "3933",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3933",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Director de ocio y tiempo libre (concilia-extremadura) berrocalejo(caceres)",
+      "id": "3934",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3934",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Técnico superior en prevención de riesgos laborales",
+      "id": "3935",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3935",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
