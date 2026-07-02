@@ -1,6 +1,6 @@
 {
-  "last_updated": "01/07/2026 17:20",
-  "count": 12,
+  "last_updated": "02/07/2026 10:12",
+  "count": 10,
   "ofertas": [
     {
       "titulo": "Técnico/a oficina de turismo en herrera del duque",
@@ -17,30 +17,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Director ocio y tiempo libre  ayuntamiento casas de don antonio",
-      "id": "3910",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3910",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Auxiliar de enfermería santa marta de magasca 4",
       "id": "3918",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3918",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Monitor ocio y tiempo libre casas de don antonio",
-      "id": "3921",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3921",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "M2 enfermería camf alcuéscar",
-      "id": "3929",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3929",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -83,6 +62,13 @@
       "titulo": "Técnico superior en prevención de riesgos laborales",
       "id": "3935",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3935",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "4 OFCIALES 2ª MECÁNICA POR LA VICEP. Y CONSEJ. DE PRESIDENCIA, COORDINACIÓN DE LA ACCIÓN DE GOBIERNO, INTERIOR Y EMERGENCIAS",
+      "id": "3936",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3936",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
