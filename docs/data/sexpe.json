@@ -1,18 +1,11 @@
 {
-  "last_updated": "05/07/2026 16:13",
-  "count": 7,
+  "last_updated": "06/07/2026 11:40",
+  "count": 5,
   "ofertas": [
     {
       "titulo": "Conserje con discapacidad/ayuntamiento de torrejón el rubio",
       "id": "3868",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3868",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Auxiliar de enfermería santa marta de magasca 4",
-      "id": "3918",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3918",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -31,23 +24,16 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "6 camarero/a-limpiador/a para el sepad en herrera del duque",
-      "id": "3939",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3939",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "3 encargado/a de almacen para el sepad en plasencia y villanueva de la serena",
-      "id": "3940",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3940",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
       "id": "3941",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3941",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Jardinero ( oficial)",
+      "id": "3942",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3942",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
