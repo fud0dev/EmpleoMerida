@@ -1,14 +1,7 @@
 {
-  "last_updated": "06/07/2026 17:47",
+  "last_updated": "07/07/2026 10:28",
   "count": 5,
   "ofertas": [
-    {
-      "titulo": "Conserje con discapacidad/ayuntamiento de torrejón el rubio",
-      "id": "3868",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3868",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
     {
       "titulo": "Técnico superior en prevención de riesgos laborales",
       "id": "3935",
@@ -34,6 +27,13 @@
       "titulo": "Jardinero ( oficial)",
       "id": "3942",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3942",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Técnico/a educación infantil-ayuntamiento herrera del duque",
+      "id": "3943",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3943",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
