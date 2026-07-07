@@ -1,6 +1,6 @@
 {
-  "last_updated": "07/07/2026 10:28",
-  "count": 5,
+  "last_updated": "07/07/2026 17:21",
+  "count": 6,
   "ofertas": [
     {
       "titulo": "Técnico superior en prevención de riesgos laborales",
@@ -34,6 +34,13 @@
       "titulo": "Técnico/a educación infantil-ayuntamiento herrera del duque",
       "id": "3943",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3943",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ate cuidador para en sepad en don benito.",
+      "id": "3944",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3944",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
