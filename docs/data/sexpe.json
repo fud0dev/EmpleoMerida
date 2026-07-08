@@ -1,6 +1,6 @@
 {
-  "last_updated": "08/07/2026 09:28",
-  "count": 4,
+  "last_updated": "08/07/2026 16:43",
+  "count": 8,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -27,6 +27,34 @@
       "titulo": "Ate cuidador para en sepad en don benito.",
       "id": "3944",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3944",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Cetarsa navamoral jefe/a de trafico",
+      "id": "3945",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3945",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Enfermero/a.",
+      "id": "3946",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3946",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Socorrista.",
+      "id": "3947",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3947",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "AUXILIAR DE AYUDA A DOMICILIO EN ACEBO (Cáceres)",
+      "id": "3948",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3948",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
