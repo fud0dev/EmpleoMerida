@@ -1,6 +1,6 @@
 {
-  "last_updated": "08/07/2026 16:43",
-  "count": 8,
+  "last_updated": "09/07/2026 10:27",
+  "count": 9,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -55,6 +55,13 @@
       "titulo": "AUXILIAR DE AYUDA A DOMICILIO EN ACEBO (Cáceres)",
       "id": "3948",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3948",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Médico forense en el ámbito de los institutos de medicina legal y ciencias forenses de extremadura en cáceres.",
+      "id": "3949",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3949",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
