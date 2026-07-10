@@ -1,6 +1,6 @@
 {
-  "last_updated": "09/07/2026 17:24",
-  "count": 8,
+  "last_updated": "10/07/2026 10:26",
+  "count": 5,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -10,37 +10,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Jardinero ( oficial)",
-      "id": "3942",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3942",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Ate cuidador para en sepad en don benito.",
-      "id": "3944",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3944",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Cetarsa navamoral jefe/a de trafico",
       "id": "3945",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3945",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Enfermero/a.",
-      "id": "3946",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3946",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Socorrista.",
-      "id": "3947",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3947",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -55,6 +27,13 @@
       "titulo": "Médico forense en el ámbito de los institutos de medicina legal y ciencias forenses de extremadura en cáceres.",
       "id": "3949",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3949",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Encargado/a  en diferentes localidades de extremadura para el sepad",
+      "id": "3950",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3950",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
