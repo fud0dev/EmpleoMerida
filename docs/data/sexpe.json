@@ -1,6 +1,6 @@
 {
-  "last_updated": "14/07/2026 09:07",
-  "count": 9,
+  "last_updated": "14/07/2026 16:19",
+  "count": 11,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -62,6 +62,20 @@
       "titulo": "Monitor curso operaciones básicas de recogida, tratamiento de residuos municipales e industriales para el c. penitenciario badajoz",
       "id": "3956",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3956",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ayuntamiento de casatejada auxiliar administrativo",
+      "id": "3957",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3957",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ayudante de realización para la sociedad pública de radiodifusión y televisión extremeña. sau",
+      "id": "3958",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3958",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
