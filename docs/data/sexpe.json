@@ -1,6 +1,6 @@
 {
-  "last_updated": "13/07/2026 17:17",
-  "count": 7,
+  "last_updated": "14/07/2026 09:07",
+  "count": 9,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -13,13 +13,6 @@
       "titulo": "Cetarsa navamoral jefe/a de trafico",
       "id": "3945",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3945",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "AUXILIAR DE AYUDA A DOMICILIO EN ACEBO (Cáceres)",
-      "id": "3948",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3948",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -48,6 +41,27 @@
       "titulo": "Monitor deportivo talaván",
       "id": "3953",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3953",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Enfermero/a para residencia de Mayores Villanueva de la Sierra",
+      "id": "3954",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3954",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Oferta de cocinero/a para Residencia de Villanueva de la Sierra",
+      "id": "3955",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3955",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor curso operaciones básicas de recogida, tratamiento de residuos municipales e industriales para el c. penitenciario badajoz",
+      "id": "3956",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3956",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
