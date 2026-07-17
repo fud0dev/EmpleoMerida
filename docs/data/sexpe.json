@@ -1,6 +1,6 @@
 {
-  "last_updated": "17/07/2026 09:12",
-  "count": 5,
+  "last_updated": "17/07/2026 16:18",
+  "count": 6,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -34,6 +34,13 @@
       "titulo": "Encargado/a para la vicepresidencia y consejería de desregulación, servicios sociales y familia en badajoz",
       "id": "3959",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3959",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor/a ocio y tiempo libre//ayuntamiento de jaraicejo",
+      "id": "3960",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3960",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
