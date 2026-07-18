@@ -1,6 +1,6 @@
 {
-  "last_updated": "17/07/2026 16:18",
-  "count": 6,
+  "last_updated": "18/07/2026 08:51",
+  "count": 7,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -41,6 +41,13 @@
       "titulo": "Monitor/a ocio y tiempo libre//ayuntamiento de jaraicejo",
       "id": "3960",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3960",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Director/a ocio y tiempo libre//ayuntamiento de jaraicejo",
+      "id": "3961",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3961",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
