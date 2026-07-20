@@ -1,6 +1,6 @@
 {
-  "last_updated": "19/07/2026 16:00",
-  "count": 6,
+  "last_updated": "20/07/2026 10:15",
+  "count": 9,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -24,13 +24,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Encargado/a para la vicepresidencia y consejería de desregulación, servicios sociales y familia en badajoz",
-      "id": "3959",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3959",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Monitor/a ocio y tiempo libre//ayuntamiento de jaraicejo",
       "id": "3960",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3960",
@@ -41,6 +34,34 @@
       "titulo": "Director/a ocio y tiempo libre//ayuntamiento de jaraicejo",
       "id": "3961",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3961",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Psicólogo con formación específica en neuropsicología para el servicio extremeño de salud - área de badajoz",
+      "id": "3962",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3962",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Auxiliar administrativo para don benito",
+      "id": "3963",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3963",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Dinamizador deportivo manc. viluuercas ibores jara",
+      "id": "3964",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3964",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Ayuntamiento de almaraz aux geriatria",
+      "id": "3965",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3965",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
