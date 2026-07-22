@@ -1,6 +1,6 @@
 {
-  "last_updated": "21/07/2026 16:25",
-  "count": 11,
+  "last_updated": "22/07/2026 09:29",
+  "count": 13,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -52,13 +52,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Ayuntamiento de almaraz aux geriatria",
-      "id": "3965",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3965",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Cocinero/a para el sepad en varias localidades de extremadura.",
       "id": "3966",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3966",
@@ -76,6 +69,27 @@
       "titulo": "Javaliega s.l.",
       "id": "3968",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3968",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Gerocultor/ atención sociosanitara en instituciones",
+      "id": "3969",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3969",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Monitor de ocio y tiempo libre consorcio merida",
+      "id": "3970",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3970",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Trabajador social para la vicepresidencia y consejería de desregulación servicios sociales y familia en badajoz",
+      "id": "3971",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3971",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
