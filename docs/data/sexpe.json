@@ -1,6 +1,6 @@
 {
-  "last_updated": "24/07/2026 09:23",
-  "count": 10,
+  "last_updated": "24/07/2026 16:46",
+  "count": 11,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -69,6 +69,13 @@
       "titulo": "Ayudante de cocina para el sepad en navalmoral de la mata",
       "id": "3976",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3976",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Vigilante de museos archivos y bibliotecas para la consejeria de cultura, turismo y deportes en cáceres y malapartida de cáceres.",
+      "id": "3977",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3977",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
