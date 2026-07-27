@@ -1,6 +1,6 @@
 {
-  "last_updated": "27/07/2026 10:46",
-  "count": 6,
+  "last_updated": "27/07/2026 17:02",
+  "count": 7,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -41,6 +41,13 @@
       "titulo": "Auxiliar de ayuda a domicilio en robledollano",
       "id": "3978",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3978",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Auxiliar de enfermeria (varios puestos) en diferentes localidades de extremadura por el sepad",
+      "id": "3979",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3979",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
