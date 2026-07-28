@@ -1,6 +1,6 @@
 {
-  "last_updated": "27/07/2026 17:02",
-  "count": 7,
+  "last_updated": "28/07/2026 09:38",
+  "count": 8,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -48,6 +48,13 @@
       "titulo": "Auxiliar de enfermeria (varios puestos) en diferentes localidades de extremadura por el sepad",
       "id": "3979",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3979",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Técnico superior en biología/bioquímica / biotecnología / biomedicina con formación específica en genética para el ses en badajoz",
+      "id": "3980",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3980",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
