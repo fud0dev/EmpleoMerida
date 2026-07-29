@@ -1,6 +1,6 @@
 {
-  "last_updated": "29/07/2026 09:41",
-  "count": 10,
+  "last_updated": "29/07/2026 16:25",
+  "count": 11,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -69,6 +69,13 @@
       "titulo": "M2 especialidad fisioterapia por el camf de alcuéscar",
       "id": "3983",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3983",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "2 puestos de psicólogo/a m3 para la gerencia territorial de justicia de extremadura en badajoz",
+      "id": "3984",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3984",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
