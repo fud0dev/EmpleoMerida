@@ -1,6 +1,6 @@
 {
-  "last_updated": "28/07/2026 16:43",
-  "count": 9,
+  "last_updated": "29/07/2026 09:41",
+  "count": 10,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -31,13 +31,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Vigilante de museos archivos y bibliotecas para la consejeria de cultura, turismo y deportes en cáceres y malapartida de cáceres.",
-      "id": "3977",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3977",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Auxiliar de ayuda a domicilio en robledollano",
       "id": "3978",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3978",
@@ -62,6 +55,20 @@
       "titulo": "Vigilante para la consejería de cultura, turismo y deportes en casas de reina y calera de león.",
       "id": "3981",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3981",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Trabajador social para la gerencia territorial de justicia en extremadura en badajoz",
+      "id": "3982",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3982",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "M2 especialidad fisioterapia por el camf de alcuéscar",
+      "id": "3983",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3983",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
