@@ -1,6 +1,6 @@
 {
-  "last_updated": "31/07/2026 09:49",
-  "count": 13,
+  "last_updated": "31/07/2026 16:48",
+  "count": 14,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -90,6 +90,13 @@
       "titulo": "4 puestos de peón/a especializado/a general para mérida y plasencia para el sepad.",
       "id": "3988",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3988",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "5 puestos de e2 cuidados auxliares de enfermería por el camf alcuéscar",
+      "id": "3989",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3989",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
