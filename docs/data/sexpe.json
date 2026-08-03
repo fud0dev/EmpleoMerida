@@ -1,6 +1,6 @@
 {
-  "last_updated": "02/08/2026 16:03",
-  "count": 11,
+  "last_updated": "03/08/2026 10:46",
+  "count": 9,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -45,13 +45,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Camarero/a limpiador/a arroyo de la luz 2",
-      "id": "3985",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3985",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Oficial primera agrícola para la consejería industria, energia, ciencia y territorio en villafranca de los barros",
       "id": "3986",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3986",
@@ -66,16 +59,9 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "4 puestos de peón/a especializado/a general para mérida y plasencia para el sepad.",
-      "id": "3988",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3988",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "5 puestos de e2 cuidados auxliares de enfermería por el camf alcuéscar",
-      "id": "3989",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3989",
+      "titulo": "Fisioterapeuta para el sepad en diferentes localidades",
+      "id": "3990",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3990",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
