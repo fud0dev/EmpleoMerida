@@ -1,6 +1,6 @@
 {
-  "last_updated": "03/08/2026 10:46",
-  "count": 9,
+  "last_updated": "03/08/2026 17:11",
+  "count": 10,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -62,6 +62,13 @@
       "titulo": "Fisioterapeuta para el sepad en diferentes localidades",
       "id": "3990",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3990",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Director/a Ocio y Tiempo Libre/Ayuntamiento de Navezuelas",
+      "id": "3991",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3991",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
