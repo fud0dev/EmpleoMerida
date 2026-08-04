@@ -1,6 +1,6 @@
 {
-  "last_updated": "03/08/2026 17:11",
-  "count": 10,
+  "last_updated": "04/08/2026 09:40",
+  "count": 8,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -17,20 +17,6 @@
       "ubicacion": "Mérida (Automático)"
     },
     {
-      "titulo": "Técnico superior en biología/bioquímica / biotecnología / biomedicina con formación específica en genética para el ses en badajoz",
-      "id": "3980",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3980",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Vigilante para la consejería de cultura, turismo y deportes en casas de reina y calera de león.",
-      "id": "3981",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3981",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
       "titulo": "Trabajador social para la gerencia territorial de justicia en extremadura en badajoz",
       "id": "3982",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3982",
@@ -41,13 +27,6 @@
       "titulo": "2 puestos de psicólogo/a m3 para la gerencia territorial de justicia de extremadura en badajoz",
       "id": "3984",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3984",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Oficial primera agrícola para la consejería industria, energia, ciencia y territorio en villafranca de los barros",
-      "id": "3986",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3986",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -69,6 +48,13 @@
       "titulo": "Director/a Ocio y Tiempo Libre/Ayuntamiento de Navezuelas",
       "id": "3991",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3991",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Socorrista. ayuntamiento de la coronada.",
+      "id": "3992",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3992",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
