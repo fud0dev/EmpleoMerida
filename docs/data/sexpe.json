@@ -1,6 +1,6 @@
 {
-  "last_updated": "04/08/2026 09:40",
-  "count": 8,
+  "last_updated": "04/08/2026 16:55",
+  "count": 9,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -55,6 +55,13 @@
       "titulo": "Socorrista. ayuntamiento de la coronada.",
       "id": "3992",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3992",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "1 puesto de vigilante por el sepad para la localidad de jerez de los caballeros",
+      "id": "3993",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3993",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
