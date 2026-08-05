@@ -1,7 +1,14 @@
 {
-  "last_updated": "05/08/2026 09:39",
-  "count": 8,
+  "last_updated": "05/08/2026 16:44",
+  "count": 10,
   "ofertas": [
+    {
+      "titulo": "Varios puestos camarero/a-limpiador/a para el sepad en diferentes localidades de la provincia de cáceres.",
+      "id": "3939",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3939",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
       "id": "3941",
@@ -55,6 +62,13 @@
       "titulo": "Camarero/a limpiador/a para la vicepresidenca y consejería de desregulación, servicios sociales y familia en caminomorisco",
       "id": "3995",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3995",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Personal lab.temp.grupo prof.3g-estadística",
+      "id": "3996",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3996",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }
