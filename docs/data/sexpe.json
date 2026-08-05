@@ -1,6 +1,6 @@
 {
-  "last_updated": "04/08/2026 16:55",
-  "count": 9,
+  "last_updated": "05/08/2026 09:39",
+  "count": 8,
   "ofertas": [
     {
       "titulo": "Tecnico cuidados auxiliares de enfermeria hervas",
@@ -13,27 +13,6 @@
       "titulo": "Enfermero/a para residencia de Mayores Villanueva de la Sierra",
       "id": "3954",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3954",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Trabajador social para la gerencia territorial de justicia en extremadura en badajoz",
-      "id": "3982",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3982",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "2 puestos de psicólogo/a m3 para la gerencia territorial de justicia de extremadura en badajoz",
-      "id": "3984",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3984",
-      "fuente": "SEXPE",
-      "ubicacion": "Mérida (Automático)"
-    },
-    {
-      "titulo": "Dinamizador deportivo manc. viluuercas ibores jara.",
-      "id": "3987",
-      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3987",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     },
@@ -62,6 +41,20 @@
       "titulo": "1 puesto de vigilante por el sepad para la localidad de jerez de los caballeros",
       "id": "3993",
       "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3993",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "1 ayudante de cocina por la consejería de desregulación,servicios sociales y familia para la localidad de caminomorisco",
+      "id": "3994",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3994",
+      "fuente": "SEXPE",
+      "ubicacion": "Mérida (Automático)"
+    },
+    {
+      "titulo": "Camarero/a limpiador/a para la vicepresidenca y consejería de desregulación, servicios sociales y familia en caminomorisco",
+      "id": "3995",
+      "enlace": "https://sexpeemplea.juntaex.es/OfertasOrientacion/?id_menu=3995",
       "fuente": "SEXPE",
       "ubicacion": "Mérida (Automático)"
     }

@@ -1,5 +1,166 @@
 {
-  "last_updated": "04/08/2026 17:00",
-  "count": 0,
-  "ofertas": []
+  "last_updated": "05/08/2026 09:39",
+  "count": 20,
+  "ofertas": [
+    {
+      "id": "112026016134",
+      "titulo": "Mantenedor/a de edificios",
+      "fecha": "05/08/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026016134&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026016054",
+      "titulo": "Auxiliar de enfermeria",
+      "fecha": "04/08/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026016054&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026014682",
+      "titulo": "Peluquero/a",
+      "fecha": "03/08/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026014682&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026015792",
+      "titulo": "Técnico/a administrativo rrhh",
+      "fecha": "30/07/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026015792&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026015775",
+      "titulo": "Operad@r retro pala excavadora",
+      "fecha": "29/07/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026015775&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026015742",
+      "titulo": "Gestor funerario-recepcion",
+      "fecha": "29/07/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026015742&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026015710",
+      "titulo": "Director de hotel",
+      "fecha": "29/07/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026015710&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026015533",
+      "titulo": "Delineante/diseñador con formación bim",
+      "fecha": "24/07/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026015533&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026015501",
+      "titulo": "Técnico marketing digital",
+      "fecha": "24/07/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026015501&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026015397",
+      "titulo": "Director financiero",
+      "fecha": "22/07/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026015397&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026015311",
+      "titulo": "Delegado comercial",
+      "fecha": "22/07/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026015311&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026015156",
+      "titulo": "Profesor de fisica,quimica y matematicas",
+      "fecha": "20/07/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026015156&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026015151",
+      "titulo": "Profesor de física, química y matemáticas",
+      "fecha": "20/07/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026015151&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026015111",
+      "titulo": "Chapista- pintor/a de vehículos",
+      "fecha": "17/07/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026015111&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026015106",
+      "titulo": "Mecánico/a oficial",
+      "fecha": "17/07/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026015106&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026014942",
+      "titulo": "Técnico instalador industrial, 3 puestos",
+      "fecha": "15/07/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026014942&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026014285",
+      "titulo": "Oficial de carpintería de madera",
+      "fecha": "06/07/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026014285&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026013162",
+      "titulo": "Auxliar administrativa/o",
+      "fecha": "19/06/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026013162&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026012663",
+      "titulo": "Mecanico frigorista vehiculo industrial",
+      "fecha": "16/06/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026012663&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    },
+    {
+      "id": "112026011492",
+      "titulo": "Recepcionista de apartamentos",
+      "fecha": "04/06/2026",
+      "ubicacion": "Merida\n\t\t\t\t\t\n\t\t\t\t\t\t(Badajoz)",
+      "enlace": "https://www.sistemanacionalempleo.es/OfertaDifusionWEB/detalleOferta.do?modo=inicio&id=112026011492&ret=B&idFlujo=cLN_47j7rwXXRsfUgVbVnPe8749",
+      "fuente": "SNE"
+    }
+  ]
 }
